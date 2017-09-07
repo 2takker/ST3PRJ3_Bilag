@@ -1,0 +1,28 @@
+\subsection{}
+\begin{table}[H]
+\begin{tabular}{|l|p{10cm}|}
+\hline
+\textbf{Navn:} & \textbf{Fully dressed use case 6: Kalibrér}\\\hline
+\textbf{Mål:} & At tekniker får kalibreret systemet, så forholdet mellem tryk og spænding udregnes.  \\\hline
+\textbf{Initiering:} & Tekniker trykker på kalibreringsknappen. \\\hline
+\textbf{Aktør:} & Tekniker(primær), Kalibreringsudstyr(offstage) \\\hline
+\textbf{Antal samtidige forekomster:} & Ingen \\\hline
+\textbf{Prækondition:} & Kalibreringsudstyr er klargjort, og der er foretaget nulpunktsjustering. 
+\\\hline
+\textbf{Postkondition:} & Systemet er kalibreret.\\\hline
+\textbf{Hovedscenarie:} &
+{\begin{enumerate}
+\item{Teknikeren trykker på knappen "Start kalibrering".}
+\item{Systemet åbner et nyt vindue, hvori teknikeren kan udfylde kalibreringsdata.}
+\item{Teknikeren påfører via kalibreringsudstyret et kendt tryk på henholdsvis 10, 50 og 100 mmHg på transduceren.} 
+\item {Teknikeren laver to målinger for hvert kendt tryk, og aflæser de resulterende udgangsspændinger.}
+\item {Teknikeren indtaster sammenhørende tryk og udgangsspænding i kalibreringsvinduet, og trykker på knappen "Udregn".}
+\item {Systemet udregner kalibreringsfaktoren, og viser denne.}
+\item {Teknikeren trykker på knappen "Opdater kalibreringsfaktor".}
+\item {Systemet opdateres med den nye kalibreringsfaktor.}
+\item {Systemet viser en besked til teknikeren om at kalibreringsfaktoren er opdateret.}
+\end{enumerate}}\\\hline
+\textbf{Undtagelser:}&
+\\\hline
+\end{tabular}
+\end{table}
