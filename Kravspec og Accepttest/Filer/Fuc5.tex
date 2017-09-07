@@ -1,0 +1,34 @@
+\chapter{3}
+
+\begin{table}[H]
+\begin{tabular}{|l|p{10cm}|}
+\hline
+\textbf{Navn:} & \textbf{Use case 5: Udlæs rådata}\\\hline
+\textbf{Mål:} & At udlæse data til en USB-nøgle \\\hline
+\textbf{Initiering:} & Sundhedspersonalet indsætter en USB-nølge i BTM \\\hline
+\textbf{Aktør:} & Sundhedspersonale \\\hline
+\textbf{Antal samtidige forekomster:} & Ingen \\\hline
+\textbf{Prækondition:} & \begin{itemize}[label=$\circ$]
+\item{At der er en ledig USB-indgang}
+\item{At data fra blodtryksmålingen er gemt i en fil}
+\item {Use case 1: "'Justér nulpunkt"', use case 2: "'Start måling"', use case 4: "'Afslut måling"' og use case 6: "'Kalibrer"' er gennemført.}
+\end{itemize}
+\\\hline
+\textbf{Postkondition:} & At data er udlæst til en USB-nøgle og fjernet fra BTM. \\\hline
+\textbf{Hovedscenarie:} &
+{\begin{enumerate}
+\item[\labelname{5.1}]{Sundhedspersonalet indsætter en USB-nøgle i BTM.
+\item[\labelname{5.2}] {Sundhedspersonalet benytter stemmekommandoen "'BTM, export"'. \begin{enumerate}
+\item[\labelname{5.2.1}] Extension [\textit{Sundhedspersonalet trykker på knappen 'Udlæs rådata'.}]
+\end{enumerate}}
+\item[\labelname{5.3}] {Data er udlæst til en USB-nøgle}
+\item[\labelname{5.4}] {BTM afspiller: "'The file has been exported"'.}
+\item[\labelname{5.5}] {Sundhedspersonalet fjerner USB-nøglen fra BTM.}
+\end{enumerate}\\\hline
+\textbf{Extensions:} & [Extension 5.2.1 \textit{Sundhedspersonalet trykker på knappen 'Udlæs rådata'.}]
+\begin{enumerate}
+\item {5.2.1.1 Use case 5 fortsættes fra punkt 5.3 }
+\end{enumerate}\\\hline
+\end{tabular}
+\end{table}
+

@@ -1,0 +1,33 @@
+\chapter{2}
+
+\begin{table}[H]
+\begin{tabular}{|l|p{10cm}|}
+\hline
+\textbf{Navn:} & \textbf{Use case 4: Afslut måling}\\\hline
+\textbf{Mål:} & At afslutte den invasive blodtryksmåling \\\hline
+\textbf{Initiering:} & Sundhedspersonalet benytter stemmekommandoen "'BTM, stop"' \\\hline
+\textbf{Aktør:} & Sundhedspersonale \\\hline
+\textbf{Antal samtidige forekomster:} & Ingen \\\hline
+\textbf{Prækondition:} & \begin{itemize}[label=$\circ$]
+\item{Use case 1: "'Justér nulpunkt"' er gennemført}
+\item{Use case 2: "'Start måling"' er gennemført}
+\item{Use case 6: "'Kalibrer"' er gennemført}
+\end{itemize}
+\\\hline
+\textbf{Postkondition:} & At blodtryksmålingen er afsluttet. \\\hline
+\textbf{Hovedscenarie:} &
+{\begin{enumerate}
+\item[\labelname{4.1}]{Sundhedspersonalet benytter stemmekommandoen "'BTM, stop"'.}
+\begin{enumerate}
+\item[\labelname{4.1.1}] Extension [\textit{Sundhedspersonalet trykker på knappen 'Afslut måling'.}]
+\end{enumerate}}
+\item[\labelname{4.2}] {Blodtryksmålingen afsluttes.}
+\item[\labelname{4.3}] {BTM afspiller: "'Measurement has ended"'.}
+\end{enumerate}\\\hline
+\textbf{Extensions:} & [Extension 4.1.1 \textit{Sundhedspersonalet trykker på knappen 'Afslut måling'.}]
+\begin{enumerate}
+\item {4.1.1.1 Use case 4 fortsættes fra punkt }
+\end{enumerate}\\\hline
+\end{tabular}
+\end{table}
+
