@@ -1,28 +1,77 @@
-\subsection{}
 \begin{table}[H]
 \begin{tabular}{|l|p{10cm}|}
 \hline
-\textbf{Navn:} & \textbf{Fully dressed use case 6: Kalibrér}\\\hline
+\textbf{Navn:} & \textbf{Fully dressed use case 1: Kalibrér}\\\hline
 \textbf{Mål:} & At tekniker får kalibreret systemet, så forholdet mellem tryk og spænding udregnes.  \\\hline
 \textbf{Initiering:} & Tekniker trykker på kalibreringsknappen. \\\hline
 \textbf{Aktør:} & Tekniker(primær), Kalibreringsudstyr(offstage) \\\hline
 \textbf{Antal samtidige forekomster:} & Ingen \\\hline
-\textbf{Prækondition:} & Kalibreringsudstyr er klargjort, og der er foretaget nulpunktsjustering. 
+\textbf{Prækondition:} & \begin{itemize}[label=$\circ$]
+\item BTM er tilsluttet en transducer. 
+\end{itemize}
 \\\hline
-\textbf{Postkondition:} & Systemet er kalibreret.\\\hline
+\textbf{Postkondition:} & BTM er kalibreret.\\\hline
 \textbf{Hovedscenarie:} &
 {\begin{enumerate}
-\item{Teknikeren trykker på knappen "Start kalibrering".}
-\item{Systemet åbner et nyt vindue, hvori teknikeren kan udfylde kalibreringsdata.}
-\item{Teknikeren påfører via kalibreringsudstyret et kendt tryk på henholdsvis 10, 50 og 100 mmHg på transduceren.} 
-\item {Teknikeren laver to målinger for hvert kendt tryk, og aflæser de resulterende udgangsspændinger.}
-\item {Teknikeren indtaster sammenhørende tryk og udgangsspænding i kalibreringsvinduet, og trykker på knappen "Udregn".}
-\item {Systemet udregner kalibreringsfaktoren, og viser denne.}
-\item {Teknikeren trykker på knappen "Opdater kalibreringsfaktor".}
-\item {Systemet opdateres med den nye kalibreringsfaktor.}
-\item {Systemet viser en besked til teknikeren om at kalibreringsfaktoren er opdateret.}
-\end{enumerate}}\\\hline
-\textbf{Undtagelser:}&
+\setlength\itemsep{0.1em}
+\item[\labelname{1.1}]{Teknikeren trykker på knappen 'Start calibration'.}
+\item[\labelname{1.2}]{BTM åbner et nyt vindue på BTMs indbyggede display.}
+\item[\labelname{1.3}]{BTM instruerer teknikeren via afspilning af "Place the transducer on the cylinder at 10mmHg and press 'Confirm'" og ved at fremvise teksten i BTMs indbyggede display: "Placer transduceren på væskesøjlen ud fra 10mmHg og tryk på knappen 'Confirm'".}
+\item[\labelname{1.4}]{Teknikeren monterer transduceren ved monteringspunktet afmærket 10mmHg på væskesøjlen.} 
+\item[\labelname{1.5}]{Teknikeren trykker på knappen 'Confirm'.}
+\item[\labelname{1.6}]{BTM måler et spændingssignal sv.t. 10mmHg og viser det nye kaliberingsniveau samt afvigelsen fra sidste kalibrering.}
+\item[\labelname{1.7}]{Teknikeren trykker på knappen 'Next'.
+\begin{enumerate}
+\item[\labelname{1.7.1}] Extension [\textit{Teknikeren trykker på knappen 'Retry' ved 10mmHg.}]
+\end{enumerate}}
+\item[\labelname{1.8}]{BTM instruerer teknikeren via afspilning af "Place the transducer on the cylinder at 50mmHg and press 'Confirm'" og ved at fremvise teksten i BTMs indbyggede display: "Placer transduceren på væskesøjlen ud fra 50mmHg og tryk på knappen 'Confirm'".}
+\item[\labelname{1.9}]{Teknikeren monterer transduceren ved monteringspunktet afmærket 50mmHg på væskesøjlen.}
+\item[\labelname{1.10}]{Teknikeren trykker på knappen 'Confirm'.}
+\item[\labelname{1.11}]{BTM måler et spændingssignal sv.t. 50mmHg og viser det nye kaliberingsniveau samt afvigelsen fra sidste kalibrering.}
+
+\end{enumerate}
+\\\hline
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\begin{tabular}{|p{5.5cm}|p{10cm}|}
+\hline
+& \begin{enumerate}
+\item[\labelname{1.12}]{Teknikeren trykker på knappen 'Next'.
+\begin{enumerate}
+\item[\labelname{1.12.1}] Extension [\textit{Teknikeren trykker på knappen 'Retry' ved 50mmHg.}]
+\end{enumerate}}
+\item[\labelname{1.13}]{BTM instruerer teknikeren via afspilning af "Place the transducer on the cylinder at 100mmHg and press 'Confirm'" og ved at fremvise teksten i BTMs indbyggede display: "Placer transduceren på væskesøjlen ud fra 100mmHg og tryk på knappen 'Confirm'".}
+\item[\labelname{1.14}]{Teknikeren monterer transduceren ved monteringspunktet afmærket 100mmHg på væskesøjlen.}
+\item[\labelname{1.15}]{Teknikeren trykker på knappen 'Confirm'.}
+\item[\labelname{1.16}]{BTM måler et spændingssignal sv.t. 100mmHg og viser det nye kaliberingsniveau samt afvigelsen fra sidste kalibrering.}
+\item[\labelname{1.17}]{Teknikeren trykker på knappen 'Next'.
+\begin{enumerate}
+\item[\labelname{1.17.1}] Extension [\textit{Teknikeren trykker på knappen 'Retry' ved 100mmHg.}]
+\end{enumerate}}
+\end{enumerate}
+\\\hline
+\textbf{Extensions:}& Extension 1.7.1 \textit{Teknikeren trykker på knappen 'Retry' ved 10mmHg.}
+\begin{enumerate}
+\setlength\itemsep{0.1em}
+\item[\labelname]1.7.1.1   Teknikeren trykker på knappen 'Retry'.
+\item[\labelname]1.7.1.2   Use casen fortsættes fra punkt 1.3. 
+\end{enumerate}
+\\
+& Extension 1.12.1 \textit{Teknikeren trykker på knappen 'Retry' ved 50mmHg.}
+\begin{enumerate}
+\setlength\itemsep{0.1em}
+\item[\labelname]1.12.1.1   Teknikeren trykker på knappen 'Retry'.
+\item[\labelname]1.12.1.2   Use casen fortsættes fra punkt 1.8. 
+\end{enumerate}
+\\
+& Extension 1.17.1 \textit{Teknikeren trykker på knappen 'Retry' ved 100mmHg.}
+\begin{enumerate}
+\setlength\itemsep{0.1em}
+\item[\labelname]1.12.1.1   Teknikeren trykker på knappen 'Retry'.
+\item[\labelname]1.12.1.2   Use casen fortsættes fra punkt 1.13. 
+\end{enumerate}
 \\\hline
 \end{tabular}
 \end{table}

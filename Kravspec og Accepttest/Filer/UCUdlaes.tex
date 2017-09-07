@@ -1,0 +1,34 @@
+\begin{table}[H]
+\begin{tabular}{|l|p{10cm}|}
+\hline
+\textbf{Navn:} & \textbf{Fully dressed use case 7: Udlæs rådata}\\\hline
+\textbf{Mål:} & At udlæse data til en USB-nøgle \\\hline
+\textbf{Initiering:} & Sundhedspersonalet indsætter en USB-nøgle i BTM. \\\hline
+\textbf{Aktør:} & Sundhedspersonale(primær) \\\hline
+\textbf{Antal samtidige forekomster:} & Ingen \\\hline
+\textbf{Prækondition:} & \begin{itemize}[label=$\circ$]
+\item{At der er en ledig USB-indgang.}
+\item{At data fra blodtryksmålingen er gemt i en fil.}
+\item {Use case 6: "Afslut måling" er gennemført.}
+\end{itemize}
+\\\hline
+\textbf{Postkondition:} & At data er udlæst til en USB-nøgle og fjernet fra BTM. \\\hline
+\textbf{Hovedscenarie:} &
+{\begin{enumerate}
+\setlength\itemsep{0.1em}
+\item[\labelname{7.1}]{Sundhedspersonalet indsætter en USB-nøgle i BTM.
+\item[\labelname{7.2}] {Sundhedspersonalet siger:"'BTM, export"'. \begin{enumerate}
+\item[\labelname{7.2.1}] Extension [\textit{Sundhedspersonalet trykker på knappen 'Udlæs rådata'.}]
+\end{enumerate}}
+\item[\labelname{7.3}] {Data er udlæst til en USB-nøgle.}
+\item[\labelname{7.4}] {BTM afspiller: "'The file has been exported"'.}
+\item[\labelname{7.5}] {Sundhedspersonalet fjerner USB-nøglen fra BTM.}
+\end{enumerate}\\\hline
+\textbf{Extensions:} & Extension 7.2.1 \textit{Sundhedspersonalet trykker på knappen 'Udlæs rådata'.}
+\begin{enumerate}
+\setlength\itemsep{0.1em}
+\item[\labelname{}]{   7.2.1.1 Use case 7 fortsættes fra punkt 7.3. }
+\end{enumerate}\\\hline
+\end{tabular}
+\end{table}
+
