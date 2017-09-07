@@ -1,9 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  6 SEP 2017 15:24
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  7 SEP 2017 08:50
 entering extended mode
 **Master.tex
-
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,9 +14,8 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\preamble_ida17.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\preamble_ida17
+.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
 Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -1575,8 +1572,7 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 84.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 ))
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
 
 ! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
 
@@ -1608,10 +1604,12 @@ package documentation for explanation.}{Your command was ignored.\MessageBreak
 Type  I <command> <return>  to replace it with another command,\MessageBreak or
   <return>  to continue without it.}ng.aux.
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux"))
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
+data.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
+rRaadata.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
+krav.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -1626,8 +1624,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -1681,11 +1678,8 @@ LaTeX Info: Redefining \nameref on input line 3.
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
-
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
 \@outlinefile=\write4
 LaTeX Info: Redefining \Ref on input line 3.
 \c__siunitx_mathsf_int=\count320
@@ -1705,12 +1699,12 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 \c__siunitx_mathtt_int=\count321
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc") [1
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc")
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartMÃ¥ling.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartM
+Ã¥ling.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {2.1}
@@ -2070,8 +2064,8 @@ Overfull \hbox (11.21768pt too wide) in paragraph at lines 61--92
  []
 
 ) [4]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
+data.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {3.1}
@@ -2125,8 +2119,8 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
+rRaadata.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {4.1}
@@ -2180,13 +2174,39 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
 
 
 ]
-No file Master.bbl.
-\tf@toc=\write5
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
+krav.tex"
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+Package natbib Warning: Citation `guidetoECGanalysis' on page 7 undefined on in
+put line 8.
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 10--10
+[]|\T1/cmr/bx/n/10.95 5. Tekstboksen for middelværdi skal farves gul
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 11--11
+[]|\T1/cmr/bx/n/10.95 6. Tekstboksen for middelværdi skal farves rød
+ []
+
+
+Underfull \hbox (badness 2005) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 11. Systemet skal programmeres i programmet
+ []
+
+) [7
+
+
+]
+No file Master.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+\tf@toc=\write5
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 14.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 14.
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
 
 ! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
 
@@ -2206,34 +2226,38 @@ package documentation for explanation.}{Your command was ignored.\MessageBreak
 Type  I <command> <return>  to replace it with another command,\MessageBreak or
   <return>  to continue without it.}ng.aux.
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
+data.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
+rRaadata.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
+krav.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 14.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 14.
 Package rerunfilecheck Info: File `Master.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 14.
  ) 
 Here is how much of TeX's memory you used:
- 23783 strings out of 493921
- 422345 string characters out of 3144876
+ 23814 strings out of 493921
+ 421575 string characters out of 3144876
  622582 words of memory out of 3000000
- 26693 multiletter control sequences out of 15000+200000
- 14353 words of font info for 47 fonts, out of 3000000 for 9000
+ 26712 multiletter control sequences out of 15000+200000
+ 16593 words of font info for 50 fonts, out of 3000000 for 9000
  843 hyphenation exceptions out of 8191
  44i,13n,78p,352b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
-es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files 
-(x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x8
-6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/
-MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Master.pdf (6 pages, 102968 bytes).
+es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
+Output written on Master.pdf (7 pages, 140989 bytes).
 PDF statistics:
- 55 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
+ 70 PDF objects out of 1000 (max. 8388607)
+ 9 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
