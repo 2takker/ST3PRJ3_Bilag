@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.9.1)  6 SEP 2017 21:03
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  6 SEP 2017 15:24
+>>>>>>> c7558bb365191bdb80f110cd42c8c5e593582cb9
 entering extended mode
 **./Master.tex
 (Master.tex
@@ -1709,12 +1713,55 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 84.
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )) (Master.aux
 (Filer/Forside.aux) (Filer/UCKalibrering.aux))
 \openout1 = `Master.aux'.
 
+=======
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+))
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+
+! Package inputenc Error: Unicode char \u8:�li not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \@input{Filer/UCStartM�ling.aux}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 \@input{Filer/UCStartM�ling.aux}
+                                     
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+No file Filer/UCStartM\GenericError {(inputenc)                }{Package inpute
+nc Error: Unicode char \u8:�li not set up for use with LaTeX}{See the inputenc 
+package documentation for explanation.}{Your command was ignored.\MessageBreak 
+Type  I <command> <return>  to replace it with another command,\MessageBreak or
+  <return>  to continue without it.}ng.aux.
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux"))
+>>>>>>> c7558bb365191bdb80f110cd42c8c5e593582cb9
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -1824,6 +1871,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 
+<<<<<<< HEAD
 ("C:\Program Files\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd")
 \c__siunitx_mathtt_int=\count378
 
@@ -1922,20 +1970,513 @@ Package natbib Warning: There were undefined citations.
 
 \tf@toc=\write5
 \openout5 = `Master.toc'.
+=======
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\stmaryrd\ustmry.fd")
+\c__siunitx_mathtt_int=\count321
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc") [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartMåling.tex"
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.1}
+l.18 \item[\labelname{2.1}]
+                           {Sundhedspersonalet siger "BTM, start".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.1.1}
+l.21 \item[\labelname{2.1.1}]
+                             Extension [\textit{Tryk på 	knappen start.}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.2}
+l.23 \item[\labelname{2.2}]
+                           BTM verificerer at nulpunktsjustering er foretaget.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.2.1}
+l.26 \item[\labelname{2.2.1}]
+                             Extension [\textit{Ingen nulpunktsjustering.}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.3}
+l.28 \item[\labelname{2.3}]
+                           BTM opretter en datafil.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.4}
+l.29 \item[\labelname{2.4}]
+                           {Blodtryksmålingen vises kontinuert på BTMs ind...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.4.1}
+l.32 \item[\labelname{2.4.1}]
+                             Extension [\textit{Vis rådata.}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.4.2}
+l.33 \item[\labelname{2.4.2}]
+                             Extension [\textit{Alarm for lavt blodtryk.}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {2.4.3}
+l.34 \item[\labelname{2.4.3}]
+                             Extension [\textit{Alarm for højt blodtryk.}]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.36 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.36 \end{enumerate}
+                    
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.42 \item[\labelname]
+                      2.1.1.1   Sundhedspersonale trykker på knappen start.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.43 \item[\labelname]
+                      2.1.1.2   Fortsæt fra punkt 2.2.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.49 \item[\labelname]
+                      2.2.1.1   BTM verificerer at der ikke er foretaget en ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.50 \item[\labelname]
+                      2.2.1.2   BTM afspiller lydsekvensen "Zero point calib...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.51 \item[\labelname]
+                      2.2.1.3   Sundhedspersonalet siger "BTM, Understood".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.52 \item[\labelname]
+                      2.2.1.4   Meddelelsen "Nulpunktsjustering ikke foretag...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.53 \item[\labelname]
+                      2.2.1.5   Udfør use case 1.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.54 \item[\labelname]
+                      2.2.1.6   Fortsæt fra punkt 2.2.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
 
-! LaTeX Error: \begin{flushleft} on input line 33 ended by \end{document}.
+Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--58
+[][] 
+ []
 
-See the LaTeX manual or LaTeX Companion for explanation.
+[2
+
+]
+Overfull \vbox (2.65083pt too high) has occurred while \output is active []
+
+
+[3]
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.66 \item[\labelname]
+                      2.4.1.1   Udfør use case 3.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.67 \item[\labelname]
+                      2.4.1.2   Fortsæt fra punkt 2.4.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.73 \item[\labelname]
+                      2.4.2.1   BTM detekterer lavt blodtryk.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.74 \item[\labelname]
+                      2.4.2.2   BTM afspiller "Lav blodtryks alarm".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.75 \item[\labelname]
+                      2.4.2.3   BTM detekterer normalt blodtryk.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.76 \item[\labelname]
+                      2.4.2.4   BTM afspiller "Normalt blodtryk".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.77 \item[\labelname]
+                      2.4.2.5   Fortsæt fra punkt 2.4.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.83 \item[\labelname]
+                      2.4.3.1   BTM detekterer højt blodtryk.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.84 \item[\labelname]
+                      2.4.3.2   BTM afspiller "Høj blodtryks alarm".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.85 \item[\labelname]
+                      2.4.3.3   BTM detekterer normalt blodtryk.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.86 \item[\labelname]
+                      2.4.3.4   BTM afspiller "Normalt blodtryk".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.87 \item[\labelname]
+                      2.4.3.5   Fortsæt fra punkt 2.4.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (11.21768pt too wide) in paragraph at lines 61--92
+[][] 
+ []
+
+) [4]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.tex"
+! Undefined control sequence.
+<argument> \labelname 
+                      {3.1}
+l.17 \item[\labelname{3.1}]
+                           Sundhedspersonalet siger "BTM, Show raw data".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {3.2}
+l.18 \item[\labelname{3.2}]
+                           BTM slår digitalt filter fra.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {3.3}
+l.19 \item[\labelname{3.3}]
+                           BTM bekræfter ved afspilning af: "Voice command ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {3.4}
+l.20 \item[\labelname{3.4}]
+                           BTM viser en kontinuer digitalt-ufiltreret blodtr...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
+[][] 
+ []
+
+) [5
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.tex"
+! Undefined control sequence.
+<argument> \labelname 
+                      {4.1}
+l.17 \item[\labelname{4.1}]
+                           Sundhedspersonalet siger "BTM, filter raw data".
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {4.2}
+l.18 \item[\labelname{4.2}]
+                           BTM slår digitalt filter til.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {4.3}
+l.19 \item[\labelname{4.3}]
+                           BTM bekræfter ved afspilning af: "Voice command ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {4.4}
+l.20 \item[\labelname{4.4}]
+                           BTM viser en kontinuer digitaltfiltreret blodtryk...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
+[][] 
+ []
+
+) [6
+
+
+]
+No file Master.bbl.
+\tf@toc=\write5
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
+>>>>>>> c7558bb365191bdb80f110cd42c8c5e593582cb9
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+
+! Package inputenc Error: Unicode char \u8:�li not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
+<<<<<<< HEAD
 l.13 \end{document}
                    
+=======
+l.26 \@input{Filer/UCStartM�ling.aux}
+                                     
+>>>>>>> c7558bb365191bdb80f110cd42c8c5e593582cb9
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
+<<<<<<< HEAD
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 13.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 13.
 (Master.aux (Filer/Forside.aux) (Filer/UCKalibrering.aux))
@@ -1971,4 +2512,42 @@ PDF statistics:
  218 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
  22 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+No file Filer/UCStartM\GenericError {(inputenc)                }{Package inpute
+nc Error: Unicode char \u8:�li not set up for use with LaTeX}{See the inputenc 
+package documentation for explanation.}{Your command was ignored.\MessageBreak 
+Type  I <command> <return>  to replace it with another command,\MessageBreak or
+  <return>  to continue without it.}ng.aux.
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 13.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 13.
+Package rerunfilecheck Info: File `Master.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 13.
+ ) 
+Here is how much of TeX's memory you used:
+ 23783 strings out of 493921
+ 422345 string characters out of 3144876
+ 622582 words of memory out of 3000000
+ 26693 multiletter control sequences out of 15000+200000
+ 14353 words of font info for 47 fonts, out of 3000000 for 9000
+ 843 hyphenation exceptions out of 8191
+ 44i,13n,78p,352b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
+C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
+Output written on Master.pdf (6 pages, 102968 bytes).
+PDF statistics:
+ 55 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> c7558bb365191bdb80f110cd42c8c5e593582cb9
 
