@@ -1,57 +1,55 @@
 \begin{table}[H]
 \begin{tabular}{|l|p{10cm}|}
 \hline
-\textbf{Navn:} & \textbf{Fully dressed use case 2: Start måling}\\\hline
-\textbf{Mål:} & At udføre samt vise en kontinuer blodtryksmåling på BTMs indbyggede display. \\\hline
-\textbf{Initiering:} & Enten startes blodtryksmålingen ved tryk på knappen start af sundhedspersonalet eller sundhedspersonalet anvender stemmekommandoen. \\\hline
-\textbf{Aktør:} & Primær: Sundhedspersonale. Sekundær: Transducer. \\\hline
+\textbf{Navn:} & \textbf{Fully dressed use case 3: Start måling}\\\hline
+\textbf{Mål:} & At udføre samt vise en kontinuert blodtryksmåling på BTMs indbyggede display. \\\hline
+\textbf{Initiering:} & Sundhedspersonalet benytter stemmekommandoen "BTM, Start". \\\hline
+\textbf{Aktør:} & Sundhedspersonale(primær), Transducer(sekundær). \\\hline
 \textbf{Antal samtidige forekomster:} & Ingen. \\\hline
 \textbf{Prækondition:} & \begin{itemize}[label=$\circ$]
-\item{Transduceren er tilkoblet til BTM.}
-\item{Use case 1: Justér nulpunk er udført.}
+\item{Transduceren er tilkoblet BTM.}
+\item{Use case 2: "'Justér nulpunkt"' er gennemført.}
 \end{itemize}
 \\\hline
-\textbf{Postkondition:} & En kontinuer blodtryksmåling vises på BTMs indbyggede display. \\\hline
+\textbf{Postkondition:} & En kontinuert blodtryksmåling vises på BTMs indbyggede display. \\\hline
 \textbf{Hovedscenarie:} &
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname{2.1}]{Sundhedspersonalet siger "BTM, start". 
+\item[\labelname{3.1}]{Sundhedspersonalet siger "BTM, start". 
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname{2.1.1}]Extension [\textit{Tryk på 	knappen start.}]
+\item[\labelname{3.1.1}]Extension [\textit{Tryk på knappen 'Start'.}]
 \end{enumerate}
-\item[\labelname{2.2}]BTM verificerer at nulpunktsjustering er foretaget.
+\item[\labelname{3.2}]BTM verificerer at nulpunktsjustering er foretaget.
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname{2.2.1}]Extension [\textit{Ingen nulpunktsjustering.}]
+\item[\labelname{3.2.1}]Extension [\textit{Ingen nulpunktsjustering.}]
 \end{enumerate}
-\item[\labelname{2.3}]BTM opretter en datafil.
-\item[\labelname{2.4}]{Blodtryksmålingen vises kontinuert på BTMs indbyggede display og rådata gemmes i datafilen.
+\item[\labelname{3.3}]BTM opretter en datafil.
+\item[\labelname{3.4}]{Blodtryksmålingen vises kontinuert digitalt-filtreret på BTMs indbyggede display og rådata gemmes i datafilen.
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname{2.4.1}]Extension [\textit{Vis rådata.}]
-\item[\labelname{2.4.2}]Extension [\textit{Alarm for lavt blodtryk.}]
-\item[\labelname{2.4.3}]Extension [\textit{Alarm for højt blodtryk.}]
+\item[\labelname{3.4.1}]Extension [\textit{Vis rådata.}]
+\item[\labelname{3.4.2}]Extension [\textit{Alarm for lavt blodtryk.}]
+\item[\labelname{3.4.3}]Extension [\textit{Alarm for højt blodtryk.}]
 \end{enumerate}
 \end{enumerate} 
 
 \\\hline
-\textbf{Extensions:} & Extension 2.1.1 \textit{Tryk på knappen start.}
+\textbf{Extensions:} & Extension 3.1.1 \textit{Tryk på knappen 'Start'.}
 \begin{itemize}
 \setlength\itemsep{0.1em}
-\item[\labelname]2.1.1.1   Sundhedspersonale trykker på knappen start.
-\item[\labelname]2.1.1.2   Fortsæt fra punkt 2.2. 
+\item[\labelname]3.1.1.1   Sundhedspersonale trykker på knappen 'Start'.
+\item[\labelname]3.1.1.2   Fortsæt fra punkt 3.2. 
 \end{itemize}
 \\
-& Extension 2.2.1 \textit{Ingen nulpunktsjustering.}
+& Extension 3.2.1 \textit{Ingen nulpunktsjustering.}
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname]2.2.1.1   BTM verificerer at der ikke er foretaget en nulpunktsjustering. 
-\item[\labelname]2.2.1.2   BTM afspiller lydsekvensen "Zero point calibration not executed" og viser meddelelsen "Nulpunktsjustering ikke foretaget". 
-\item[\labelname]2.2.1.3   Sundhedspersonalet siger "BTM, Understood".
-\item[\labelname]2.2.1.4   Meddelelsen "Nulpunktsjustering ikke foretaget" lukkes.
-\item[\labelname]2.2.1.5   Udfør use case 1.
-\item[\labelname]2.2.1.6   Fortsæt fra punkt 2.2. 
+\item[\labelname]3.2.1.1   BTM verificerer, at der ikke er foretaget en nulpunktsjustering. 
+\item[\labelname]3.2.1.2   BTM afspiller: "'Zero point calibration not executed"' og viser meddelelsen "'Nulpunktsjustering ikke foretaget"'. 
+\item[\labelname]3.2.1.3   Sundhedspersonalet siger "'BTM, Understood"'.
+\item[\labelname]3.2.1.4   Meddelelsen "'Nulpunktsjustering ikke foretaget"' lukkes.
 \end{enumerate}
 \\\hline
 \end{tabular}
@@ -60,31 +58,36 @@
 \begin{table}[H]
 \begin{tabular}{|p{5.5cm}|p{10cm}|}
 \hline
-\textbf{Extensions:} & Extension 2.4.1 \textit{"Vis rådata."}
-\begin{enumerate}
-\setlength\itemsep{0.1em}
-\item[\labelname]2.4.1.1   Udfør use case 3.
-\item[\labelname]2.4.1.2   Fortsæt fra punkt 2.4. 
+& \begin{enumerate}
+\item[\labelname]3.2.1.5   Udfør use case 2.
+\item[\labelname]3.2.1.6   Use casen fortsættes fra punkt 3.2. 
 \end{enumerate}
 \\
-& Extension 2.4.2 \textit{"Alarm for lavt blodtryk."}
+& Extension 3.4.1 \textit{Vis rådata.}
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname]2.4.2.1   BTM detekterer lavt blodtryk.
-\item[\labelname]2.4.2.2   BTM afspiller "Lav blodtryks alarm".
-\item[\labelname]2.4.2.3   BTM detekterer normalt blodtryk.
-\item[\labelname]2.4.2.4   BTM afspiller "Normalt blodtryk". 
-\item[\labelname]2.4.2.5   Fortsæt fra punkt 2.4. 
+\item[\labelname]3.4.1.1   Udfør use case 4.
+\item[\labelname]3.4.1.2   Use casen fortsættes fra punkt 3.4. 
 \end{enumerate}
 \\
-& Extension 2.4.3 \textit{"Alarm for højt blodtryk."}
+& Extension 3.4.2 \textit{Alarm for lavt blodtryk.}
 \begin{enumerate}
 \setlength\itemsep{0.1em}
-\item[\labelname]2.4.3.1   BTM detekterer højt blodtryk.
-\item[\labelname]2.4.3.2   BTM afspiller "Høj blodtryks alarm".
-\item[\labelname]2.4.3.3   BTM detekterer normalt blodtryk.
-\item[\labelname]2.4.3.4   BTM afspiller "Normalt blodtryk". 
-\item[\labelname]2.4.3.5   Fortsæt fra punkt 2.4. 
+\item[\labelname]3.4.2.1   BTM detekterer lavt blodtryk.
+\item[\labelname]3.4.2.2   BTM afspiller "'Lav blodtryks alarm"'.
+\item[\labelname]3.4.2.3   BTM detekterer normalt blodtryk.
+\item[\labelname]3.4.2.4   BTM afspiller "'Normalt blodtryk"'. 
+\item[\labelname]3.4.2.5   Use casen fortsættes fra punkt 3.4. 
+\end{enumerate}
+\\
+& Extension 3.4.3 \textit{Alarm for højt blodtryk.}
+\begin{enumerate}
+\setlength\itemsep{0.1em}
+\item[\labelname]3.4.3.1   BTM detekterer højt blodtryk.
+\item[\labelname]3.4.3.2   BTM afspiller "'Høj blodtryks alarm"'.
+\item[\labelname]3.4.3.3   BTM detekterer normalt blodtryk.
+\item[\labelname]3.4.3.4   BTM afspiller "'Normalt blodtryk"'. 
+\item[\labelname]3.4.3.5   Use casen fortsættes fra punkt 3.4. 
 \end{enumerate}
 
 \\\hline
