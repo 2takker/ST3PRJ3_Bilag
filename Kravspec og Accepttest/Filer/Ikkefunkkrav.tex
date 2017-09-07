@@ -1,0 +1,23 @@
+\begin{table} [htbp]
+\centering
+\begin{tabular}{|p{10cm}|l|l|}
+\hline
+\textbf{Krav:} & \textbf{FURPS+:} & \textbf{MoSCoW:} \\ \hline
+\textbf{1. EKG'et skal afbilledes med tiden målt i sekunder på første aksen og spændingen målt i volt på anden aksen} & Usability & Skal \\ \hline
+\textbf{2. } & Usability & Skal \\ \hline
+\textbf{3.EKG'et skal afbilledes efter standard lyserød (farvekode: 255,228,225) baggrund og mørkere lyserøde tern (farvekode: 250,128,114) og mørkeblå tracing (farvekode: 3,2,129) (jf. \citep{guidetoECGanalysis})}  & Usability & Skal \\ \hline
+\textbf{4. Tekstboksen for middelværdi skal farves grøn (farvekode: 0,255,0), hvis middelværdien < 0,18 sekunder} & Usability & Skal \\ \hline
+\textbf{5. Tekstboksen for middelværdi skal farves gul (farvekode: 255,255,0), hvis middelværdien >= 0,18 sekunder og middelværdien <= 0,22 sekunder} & Usability & Skal \\ \hline
+\textbf{6. Tekstboksen for middelværdi skal farves rød (farvekode: 255,0,0), hvis middelværdien > 0,22 sekunder } & Usability & Skal \\ \hline
+\textbf{7. VP skal gemmes og søges via sit CPR nummer } & Usability & Skal \\ \hline
+\textbf{8. Systemet skal have en oppetid/mean time between failure (MTBF) på 2 år} & Reliability & Skal \\ \hline
+\textbf{9. Systemet skal kunne repareres/have en mean time to restore (MTTR) på 2 dage} & Reliability & Skal \\ \hline
+\textbf{10. EKG'et skal afbilledes på skærmen efter maks 13 sekunder} & Performance & Skal \\ \hline
+\textbf{11. Systemet skal programmeres i programmet Visual Studio, herunder C\# .NET} & Supportability & Skal \\ \hline
+\textbf{12. Platformen skal have installeret Windows 8 eller nyere og Visual Studio 2015} & Supportability & Skal \\ \hline
+\textbf{13. EKG'et bør kunne aflæses på en afstand op til 1 meter} & Usability & Bør \\ \hline
+\end{tabular}
+\caption{Ikke-funktionelle krav}
+\label{tb:ikkefunkkrav} 
+\end{table}
+
