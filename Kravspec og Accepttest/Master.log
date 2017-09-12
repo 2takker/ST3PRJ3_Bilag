@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  12 SEP 2017 10:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  12 SEP 2017 11:25
 entering extended mode
 **Master.tex
 
@@ -1625,7 +1625,36 @@ kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.aux")
 ("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
 kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibrering.aux")
 ("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.aux"))
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.aux")
+
+! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \@input{Filer/ATStartMåling.aux}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+No file Filer/ATStartM\GenericError {(inputenc)                }{Package inpute
+nc Error: Unicode char \u8:åli not set up for use with LaTeX}{See the inputenc 
+package documentation for explanation.}{Your command was ignored.\MessageBreak 
+Type  I <command> <return>  to replace it with another command,\MessageBreak or
+  <return>  to continue without it.}ng.aux.
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATVisRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATFiltrerRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\FIler/ATAfslut.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATUdlaes.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATIkkefunktionelle.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -2786,7 +2815,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       {7.2.1}
 l.21 \item[\labelname{7.2.1}]
-                              Extension [\textit{Sundhedspersonalet trykker ...
+                              Extension [\textit{Tryk pÃ¥ knappen 'UdlÃ¦s rÃ...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2846,17 +2875,22 @@ I've put in what seems to be necessary to fix
 the current column of the current alignment.
 Try to go on, since this might almost work.
 
-
-Underfull \hbox (badness 1902) in paragraph at lines 27--29
-[]|\T1/cmr/m/n/10.95 Extension 7.2.1 \T1/cmr/m/it/10.95 Sundhedspersonalet tryk
-ker på knappen
- []
-
 ! Undefined control sequence.
 <argument> \labelname 
                       {}
 l.30 \item[\labelname{}]
-                        {   7.2.1.1 Use case 7 fortsÃ¦ttes fra punkt 7.3. }
+                        {   7.2.1.1 Sundhedspersonalet trykker pÃ¥ knappen '...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {}
+l.31 \item[\labelname{}]
+                        {   7.2.1.2 Use case 7 fortsÃ¦ttes fra punkt 7.3. }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2864,7 +2898,7 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--33
+Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--34
 [][] 
  []
 
@@ -3119,8 +3153,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
  []
 
 
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
 Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
-[]|\T1/cmr/m/n/10.95 2.1.1.1| 
+\T1/cmr/m/n/10.95 2.1.1.2| 
  []
 
 
@@ -3134,22 +3173,7 @@ Underfull \hbox (badness 2762) in paragraph at lines 42--42
  []
 
 
-Overfull \hbox (2.40129pt too wide) in paragraph at lines 45--45
-[]|\T1/cmr/m/n/10.95 2.1.1.1| 
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 45--45
-[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
- []
-
-
-Underfull \hbox (badness 2762) in paragraph at lines 45--45
-\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
- []
-
-
-Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--49
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
 [][] 
  []
 
@@ -3157,10 +3181,555 @@ Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--49
 
 
 ]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATStartMÃ¥ling.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [16
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATVisRaadata.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [17
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATFiltrerRaadata.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/m/n/10.95 5.1-
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 16--16
+[]|\T1/cmr/m/n/10.95 BTM slår di-gi-talt fil-
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 16--16
+\T1/cmr/m/n/10.95 mand con-fir-med". Ef-
+ []
+
+
+Underfull \hbox (badness 4341) in paragraph at lines 16--16
+\T1/cmr/m/n/10.95 tre-ret blod-tryks-må-ling
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 16--16
+\T1/cmr/m/n/10.95 på BT-Ms ind-byg-ge-de
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--19
+[][] 
+ []
+
+) [18
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\FIler/ATAfslut.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [19
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATUdlaes.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 USB-nøgle sid-der i
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\T1/cmr/m/n/10.95 7.2-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\T1/cmr/m/n/10.95 Sig:"BTM,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+\T1/cmr/m/n/10.95 ef-ter-føl-gen-de:"The fi-le
+ []
+
+
+Overfull \hbox (8.82445pt too wide) in paragraph at lines 22--22
+[]|\T1/cmr/m/n/10.95 Sundhedspersonalet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+\T1/cmr/m/n/10.95 fjer-ner USB-
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--25
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 44--44
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 46--46
+[]|\T1/cmr/m/n/10.95 7.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 46--46
+\T1/cmr/m/n/10.95 7.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--46
+\T1/cmr/m/n/10.95 ef-ter-føl-gen-de:"The fi-le
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 29--49
+[][] 
+ []
+
+) [20
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATIkkefunktionelle.tex"
+Overfull \hbox (4.14957pt too wide) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Nr.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Forventet ob-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 ser-va-tion/
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Faktisk ob-ser-
+ []
+
+
+Overfull \hbox (8.85976pt too wide) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Vurde-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 ring
+ []
+
+
+Overfull \hbox (6.02267pt too wide) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 (OK/-
+ []
+
+
+Overfull \hbox (4.5153pt too wide) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 FAIL)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\T1/cmr/m/n/10.95 Alarmen spil-ler
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\T1/cmr/m/n/10.95 Alarmen spil-ler
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 6--6
+\T1/cmr/m/n/10.95 fo-re-ta-ge en suc-
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 fæl-de af: STE-MI og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\T1/cmr/m/n/10.95 Der for-ta-ges
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 50 må-lin-ger og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 to fag-per-so-ner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 tjek-ker må-lin-ger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 for STE-MI og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\T1/cmr/m/n/10.95 Man ind-sæt-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\T1/cmr/m/n/10.95 bre-akpo-int og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\T1/cmr/m/n/10.95 der tryk-kes på
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\T1/cmr/m/n/10.95 Systemet skal kun-ne
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 9--9
+[]|\T1/cmr/m/n/10.95 Der tryk-kes på
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\T1/cmr/m/n/10.95 Systemet kø-rer
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 10--10
+[]|\T1/cmr/m/n/10.95 Systemet er kom-pa-ti-
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 belt på al-le Win-dows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 plat-for-me ny-e-re end
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 ny-e-re end Win-
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 dows XP til og
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 ny-e-re end Win-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\T1/cmr/m/n/10.95 Systemet skal kun-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 hånd-te-re 6 pa-tien-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 ad gan-gen med én
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 EKG-afledning pr.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\T1/cmr/m/n/10.95 Systemet kan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 hånd-te-re al-le
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 6 pa-tien-ter ad
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 gan-gen med én
+ []
+
+
+Overfull \hbox (32.36487pt too wide) in paragraph at lines 2--13
+[][] 
+ []
+
+) [21
+
+
+]
 No file Master.bbl.
 \tf@toc=\write5
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
 
 ("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
 kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
@@ -3200,18 +3769,47 @@ kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.aux")
 ("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
 kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibrering.aux")
 ("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.aux")
+
+! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \@input{Filer/ATStartMåling.aux}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+No file Filer/ATStartM\GenericError {(inputenc)                }{Package inpute
+nc Error: Unicode char \u8:åli not set up for use with LaTeX}{See the inputenc 
+package documentation for explanation.}{Your command was ignored.\MessageBreak 
+Type  I <command> <return>  to replace it with another command,\MessageBreak or
+  <return>  to continue without it.}ng.aux.
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATVisRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATFiltrerRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\FIler/ATAfslut.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATUdlaes.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATIkkefunktionelle.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `Master.out' has not changed.
 (rerunfilecheck)             Checksum: 86E3A244FFAEF3C92129C11EFE8B8971;56.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 23882 strings out of 493921
- 428978 string characters out of 3144876
+ 23948 strings out of 493921
+ 434173 string characters out of 3144876
  630582 words of memory out of 3000000
- 26729 multiletter control sequences out of 15000+200000
+ 26747 multiletter control sequences out of 15000+200000
  16593 words of font info for 50 fonts, out of 3000000 for 9000
  843 hyphenation exceptions out of 8191
  44i,13n,78p,406b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3224,9 +3822,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files
 MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Master.pdf (15 pages, 164738 bytes).
+Output written on Master.pdf (21 pages, 178195 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 136 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
