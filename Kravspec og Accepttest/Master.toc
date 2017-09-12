@@ -1,7 +1,3 @@
 \changetocdepth {2}
 \select@language {danish}
 \contentsline {chapter}{Indholdsfortegnelse}{1}{section*.1}
-<<<<<<< HEAD
-\contentsline {subsection}{\numberline {0.0.1}}{3}{subsection.0.0.1}
-=======
->>>>>>> e05f736d158e97b02fdbf737e5c584b92461a14e
