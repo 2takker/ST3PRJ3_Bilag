@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  7 SEP 2017 14:55
 entering extended mode
 **Master.tex
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.tex"
+=======
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  12 SEP 2017 08:35
+entering extended mode
+**Master.tex
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.tex"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -14,8 +23,14 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\preamble_ida17
 .tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+=======
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\preamble_ida17.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -1572,11 +1587,20 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 84.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 ))
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibr
 ering.aux")
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpun
 kt.aux")
+=======
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibrering.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpunkt.aux")
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 
 ! Package inputenc Error: Unicode char \u8:�li not set up for use with LaTeX.
 
@@ -1608,6 +1632,7 @@ package documentation for explanation.}{Your command was ignored.\MessageBreak
 Type  I <command> <return>  to replace it with another command,\MessageBreak or
   <return>  to continue without it.}ng.aux.
 
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
 data.aux")
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
@@ -1618,6 +1643,18 @@ rRaadata.aux")
 .aux")
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
 krav.aux"))
+=======
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.aux"))
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -1632,7 +1669,12 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
+<<<<<<< HEAD
  ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+=======
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
@@ -1686,8 +1728,16 @@ LaTeX Info: Redefining \nameref on input line 3.
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+=======
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 \@outlinefile=\write4
 LaTeX Info: Redefining \Ref on input line 3.
 \c__siunitx_mathsf_int=\count320
@@ -1707,6 +1757,7 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 \c__siunitx_mathtt_int=\count321
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc")
 ! Missing $ inserted.
 <inserted text> 
@@ -1721,6 +1772,14 @@ you left one out. Proceed, with fingers crossed.
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibr
 ering.tex"
+=======
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc") [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibrering.tex"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 ! Undefined control sequence.
 <argument> \labelname 
                       {1.1}
@@ -1962,9 +2021,9 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 <argument> \labelname 
-                      
-l.58 \item[\labelname]
-                      1.7.1.1   Teknikeren trykker på knappen 'Retry'.
+                      {1.18}
+l.53 \item[\labelname{1.18}]
+                            {BTM instruerer teknikeren via afspilning af "'O...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1973,9 +2032,9 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 <argument> \labelname 
-                      
-l.59 \item[\labelname]
-                      1.7.1.2   Use casen fortsættes fra punkt 1.3.
+                      {1.19}
+l.54 \item[\labelname{1.19}]
+                            {Teknikeren åbner ventilen på transduceren.}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1984,9 +2043,42 @@ and I'll forget about whatever was undefined.
 
 ! Undefined control sequence.
 <argument> \labelname 
-                      
-l.65 \item[\labelname]
-                      1.12.1.1   Teknikeren trykker på knappen 'Retry'.
+                      {1.20}
+l.55 \item[\labelname{1.20}]
+                            {Teknikeren trykker på knappen 'Confirm'.}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {1.21}
+l.56 \item[\labelname{1.21}]
+                            {BTM måler et spændingssignal sv.t. det atmosf...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {1.22}
+l.57 \item[\labelname{1.22}]
+                            {Teknikeren trykker på knappen 'Next'.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      {1.22.1}
+l.59 \item[\labelname{1.22.1}]
+                               Extension [\textit{Teknikeren trykker på kna...
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1997,7 +2089,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.66 \item[\labelname]
-                      1.12.1.2   Use casen fortsættes fra punkt 1.8.
+                      1.7.1.1   Teknikeren trykker på knappen 'Retry'.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2007,8 +2099,8 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <argument> \labelname 
                       
-l.72 \item[\labelname]
-                      1.12.1.1   Teknikeren trykker på knappen 'Retry'.
+l.67 \item[\labelname]
+                      1.7.1.2   Use casen fortsættes fra punkt 1.3.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2019,7 +2111,18 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.73 \item[\labelname]
-                      1.12.1.2   Use casen fortsættes fra punkt 1.13.
+                      1.12.1.1   Teknikeren trykker på knappen 'Retry'.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.74 \item[\labelname]
+                      1.12.1.2   Use casen fortsættes fra punkt 1.8.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2027,15 +2130,73 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Overfull \hbox (11.21768pt too wide) in paragraph at lines 38--77
+Overfull \hbox (11.21768pt too wide) in paragraph at lines 38--78
 [][] 
  []
 
+[2
+
+]
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.86 \item[\labelname]
+                      1.17.1.1   Teknikeren trykker på knappen 'Retry'.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.87 \item[\labelname]
+                      1.17.1.2   Use casen fortsættes fra punkt 1.13.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.93 \item[\labelname]
+                      1.22.1.1   Teknikeren trykker på knappen 'Retry'.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> \labelname 
+                      
+l.94 \item[\labelname]
+                      1.22.1.2   Use casen fortsættes fra punkt 1.18.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (11.21768pt too wide) in paragraph at lines 81--98
+[][] 
+ []
+
+<<<<<<< HEAD
 ) [2
 
 ] [3]
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpun
 kt.tex"
+=======
+) [3] [4]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpunkt.tex"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 ! Undefined control sequence.
 <argument> \labelname 
                       {2.1}
@@ -2102,12 +2263,17 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--33
 [][] 
  []
 
-) [4
+) [5
 
 
 ]
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartM
 åling.tex"
+=======
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartMåling.tex"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 ! Undefined control sequence.
 <argument> \labelname 
                       {3.1}
@@ -2459,12 +2625,21 @@ Overfull \hbox (11.21768pt too wide) in paragraph at lines 59--95
 [][] 
  []
 
+<<<<<<< HEAD
 [5
 
 
 ]) [6]
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
 data.tex"
+=======
+[6
+
+
+]) [7]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.tex"
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 ! Undefined control sequence.
 <argument> \labelname 
                       {4.1}
@@ -2519,7 +2694,7 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
 [][] 
  []
 
-) [7
+) [8
 
 
 ]
@@ -2579,7 +2754,11 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
 [][] 
  []
 
+<<<<<<< HEAD
 ) [8
+=======
+) [9
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 
 
 ]
@@ -2651,7 +2830,7 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--32
 [][] 
  []
 
-) [9
+) [10
 
 
 ]
@@ -2765,6 +2944,7 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--33
 [][] 
  []
 
+<<<<<<< HEAD
 ) [10
 
 
@@ -2776,6 +2956,17 @@ l.13
      
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
+=======
+) [11
+
+
+]
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.tex"
+
+Package natbib Warning: Citation `guidetoECGanalysis' on page 12 undefined on i
+nput line 8.
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 
 [11
 
@@ -2797,6 +2988,7 @@ Underfull \hbox (badness 2005) in paragraph at lines 23--23
  []
 
 ) [12
+<<<<<<< HEAD
 
 ]
 No file Master.bbl.
@@ -2808,6 +3000,25 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
 ering.aux")
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpun
 kt.aux")
+=======
+
+
+]
+No file Master.bbl.
+
+Package natbib Warning: There were undefined citations.
+
+\tf@toc=\write5
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 18.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 18.
+
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibrering.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpunkt.aux")
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
 
 ! Package inputenc Error: Unicode char \u8:�li not set up for use with LaTeX.
 
@@ -2827,6 +3038,7 @@ package documentation for explanation.}{Your command was ignored.\MessageBreak
 Type  I <command> <return>  to replace it with another command,\MessageBreak or
   <return>  to continue without it.}ng.aux.
 
+<<<<<<< HEAD
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
 data.aux")
 ("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
@@ -2848,11 +3060,39 @@ Here is how much of TeX's memory you used:
  423867 string characters out of 3144876
  626582 words of memory out of 3000000
  26721 multiletter control sequences out of 15000+200000
+=======
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes.aux")
+("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
+kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 18.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 18.
+Package rerunfilecheck Info: File `Master.out' has not changed.
+(rerunfilecheck)             Checksum: 86E3A244FFAEF3C92129C11EFE8B8971;56.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 18.
+ ) 
+Here is how much of TeX's memory you used:
+ 23859 strings out of 493921
+ 427127 string characters out of 3144876
+ 627582 words of memory out of 3000000
+ 26723 multiletter control sequences out of 15000+200000
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
  16593 words of font info for 50 fonts, out of 3000000 for 9000
  843 hyphenation exceptions out of 8191
  44i,19n,78p,352b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
 C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program F
+<<<<<<< HEAD
 iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Fil
 es (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files 
 (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x
@@ -2866,5 +3106,18 @@ Output written on Master.pdf (12 pages, 173994 bytes).
 PDF statistics:
  106 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
+=======
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files 
+(x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1000.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
+Output written on Master.pdf (12 pages, 158023 bytes).
+PDF statistics:
+ 97 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+>>>>>>> c173aa4369099a12f1e46d168da1f4276dd2c715
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
