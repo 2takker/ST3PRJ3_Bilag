@@ -1,9 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  12 SEP 2017 10:50
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.2.22)  12 SEP 2017 14:47
 entering extended mode
 **Master.tex
-
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -16,9 +14,8 @@ ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
 an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
 ishmax, welsh, loaded.
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\preamble_ida17.tex"
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\preamble_ida17
+.tex" ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\memoir\memoir.cls"
 Document Class: memoir 2011/03/06 v3.6j configurable book, report, article docu
 ment class
 \onelineskip=\skip41
@@ -1575,12 +1572,11 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 84.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
 File: lstlang1.sty 2004/09/05 1.3 listings language file
 ))
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibrering.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpunkt.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibr
+ering.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpun
+kt.aux")
 
 ! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
 
@@ -1612,20 +1608,49 @@ package documentation for explanation.}{Your command was ignored.\MessageBreak
 Type  I <command> <return>  to replace it with another command,\MessageBreak or
   <return>  to continue without it.}ng.aux.
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibrering.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.aux"))
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
+data.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
+rRaadata.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
+krav.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibr
+ering.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpun
+kt.aux")
+
+! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \@input{Filer/ATStartMåling.aux}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+No file Filer/ATStartM\GenericError {(inputenc)                }{Package inpute
+nc Error: Unicode char \u8:åli not set up for use with LaTeX}{See the inputenc 
+package documentation for explanation.}{Your command was ignored.\MessageBreak 
+Type  I <command> <return>  to replace it with another command,\MessageBreak or
+  <return>  to continue without it.}ng.aux.
+
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATVisRaa
+data.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATFiltre
+rRaadata.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\FIler/ATAfslut
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATUdlaes
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATIkkefu
+nktionelle.aux"))
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
@@ -1640,15 +1665,13 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
 LaTeX Font Info:    Try loading font information for TS1+cmr on input line 3.
-
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 3.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 3.
 LaTeX Font Info:    ... okay on input line 3.
-
-ABD: EverySelectfont initializing macros
+ ABD: EverySelectfont initializing macros
 LaTeX Info: Redefining \selectfont on input line 3.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
@@ -1695,11 +1718,8 @@ LaTeX Info: Redefining \nameref on input line 3.
 LaTeX Info: Redefining \ref on input line 3.
 LaTeX Info: Redefining \pageref on input line 3.
 LaTeX Info: Redefining \nameref on input line 3.
-
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.out")
 \@outlinefile=\write4
 LaTeX Info: Redefining \Ref on input line 3.
 \c__siunitx_mathsf_int=\count320
@@ -1719,12 +1739,12 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 3.
 \c__siunitx_mathtt_int=\count321
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\t1pbk.fd")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc") [1
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.toc")
+[1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibrering.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibr
+ering.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {1.1}
@@ -2132,8 +2152,8 @@ Overfull \hbox (11.21768pt too wide) in paragraph at lines 81--98
  []
 
 ) [3] [4]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpunkt.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpun
+kt.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {2.1}
@@ -2193,7 +2213,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       {}
 l.31 \item[\labelname{}]
-                        2.1.1.2   Use case 2 fortsÃ¦ttes fra punkt 2.2
+                        2.1.1.2   FortsÃ¦t fra punkt 2.2
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2209,8 +2229,8 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--34
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartMÃ¥ling.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCStartM
+Ã¥ling.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {3.1}
@@ -2418,7 +2438,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.63 \item[\labelname]
-                      3.2.1.6   Use casen fortsÃ¦ttes fra punkt 3.2.
+                      3.2.1.6   FortsÃ¦t fra punkt 3.2.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2440,7 +2460,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.70 \item[\labelname]
-                      3.4.1.2   Use casen fortsÃ¦ttes fra punkt 3.4.
+                      3.4.1.2   FortsÃ¦t fra punkt 3.4.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2462,7 +2482,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.77 \item[\labelname]
-                      3.4.2.2   BTM afspiller "'Lav blodtryks alarm"'.
+                      3.4.2.2   BTM afspiller "'Lav blodtryksalarm"'.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2495,7 +2515,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.80 \item[\labelname]
-                      3.4.2.5   Use casen fortsÃ¦ttes fra punkt 3.4.
+                      3.4.2.5   FortsÃ¦t fra punkt 3.4.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2517,7 +2537,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.87 \item[\labelname]
-                      3.4.3.2   BTM afspiller "'HÃ¸j blodtryks alarm"'.
+                      3.4.3.2   BTM afspiller "'HÃ¸j blodtryksalarm"'.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2550,7 +2570,7 @@ and I'll forget about whatever was undefined.
 <argument> \labelname 
                       
 l.90 \item[\labelname]
-                      3.4.3.5   Use casen fortsÃ¦ttes fra punkt 3.4.
+                      3.4.3.5   FortsÃ¦t fra punkt 3.4.
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2566,8 +2586,8 @@ Overfull \hbox (11.21768pt too wide) in paragraph at lines 59--95
 
 
 ]) [7]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
+data.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {4.1}
@@ -2626,8 +2646,8 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
+rRaadata.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {5.1}
@@ -2686,8 +2706,8 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--24
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut
+.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {6.1}
@@ -2742,7 +2762,7 @@ ker på knappen
 <argument> \labelname 
                       {}
 l.29 \item[\labelname{}]
-                        {   6.1.1.1 Use case 6 fortsÃ¦ttes fra punkt 6.2 }
+                        {   6.1.1.1 FortsÃ¦t fra punkt 6.2 }
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -2758,8 +2778,8 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--32
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes
+.tex"
 ! Undefined control sequence.
 <argument> \labelname 
                       {7.1}
@@ -2872,8 +2892,8 @@ Overfull \hbox (13.33878pt too wide) in paragraph at lines 2--33
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
+krav.tex"
 Underfull \hbox (badness 1394) in paragraph at lines 8--8
 []|\T1/cmr/bx/n/10.95 3. BTM skal håndtere et måletryk fra -50 til
  []
@@ -2892,8 +2912,8 @@ Underfull \hbox (badness 2005) in paragraph at lines 23--23
 
 
 ]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibrering.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibr
+ering.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 14--14
 []|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
  []
@@ -3072,8 +3092,8 @@ Overfull \hbox (5.73851pt too wide) in paragraph at lines 28--13
 
 
 ] [14]
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.tex"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpun
+kt.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 16--16
 []|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
  []
@@ -3119,8 +3139,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 40--40
  []
 
 
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
 Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
-[]|\T1/cmr/m/n/10.95 2.1.1.1| 
+\T1/cmr/m/n/10.95 2.1.1.2| 
  []
 
 
@@ -3134,22 +3159,7 @@ Underfull \hbox (badness 2762) in paragraph at lines 42--42
  []
 
 
-Overfull \hbox (2.40129pt too wide) in paragraph at lines 45--45
-[]|\T1/cmr/m/n/10.95 2.1.1.1| 
- []
-
-
-Underfull \hbox (badness 3343) in paragraph at lines 45--45
-[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
- []
-
-
-Underfull \hbox (badness 2762) in paragraph at lines 45--45
-\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
- []
-
-
-Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--49
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
 [][] 
  []
 
@@ -3157,17 +3167,900 @@ Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--49
 
 
 ]
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATStartM
+Ã¥ling.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]|\T1/cmr/m/n/10.95 3.1-
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 17--17
+\T1/cmr/m/n/10.95 da-ta-fil. Her-ef-ter vi-ses
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 17--17
+\T1/cmr/m/n/10.95 ti-nu-ert digitalt-filtreret
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 17--17
+\T1/cmr/m/n/10.95 på BT-Ms ind-byg-ge-de
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--20
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 40--40
+[]|\T1/cmr/m/n/10.95 3.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 40--40
+\T1/cmr/m/n/10.95 3.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 40--40
+\T1/cmr/m/n/10.95 da-ta-fil. Her-ef-ter vi-ses
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 40--40
+\T1/cmr/m/n/10.95 ti-nu-ert digitalt-filtreret
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 40--40
+\T1/cmr/m/n/10.95 på BT-Ms ind-byg-ge-de
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 24--43
+[][] 
+ []
+
+[16
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 62--62
+[]|\T1/cmr/m/n/10.95 3.2.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 62--62
+\T1/cmr/m/n/10.95 3.2.1.2| 
+ []
+
+
+Underfull \hbox (badness 4765) in paragraph at lines 62--62
+[]|\T1/cmr/m/n/10.95 BTM ve-ri-fi-ce-rer,
+ []
+
+
+Underfull \hbox (badness 6188) in paragraph at lines 62--62
+\T1/cmr/m/n/10.95 at der ik-ke er
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+[]|\T1/cmr/m/n/10.95 BTM af-spil-ler: Zero
+ []
+
+
+Underfull \hbox (badness 7362) in paragraph at lines 62--62
+\T1/cmr/m/n/10.95 po-int ca-li-bra-tion not
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--62
+\T1/cmr/m/n/10.95 Nul-punkt-s-ju-ste-ring
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 63--63
+[]|\T1/cmr/m/n/10.95 3.2.1.3-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 63--63
+\T1/cmr/m/n/10.95 3.2.1.4| 
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 63--63
+[]|\T1/cmr/m/n/10.95 Sig: BTM, Un-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 65--65
+[]|\T1/cmr/m/n/10.95 3.2.1.5| 
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 67--67
+[]|\T1/cmr/m/n/10.95 3.2.1.6| 
+ []
+
+
+Underfull \hbox (badness 3919) in paragraph at lines 67--67
+\T1/cmr/m/n/10.95 da-ta-fil. Her-ef-ter vi-ses
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 67--67
+\T1/cmr/m/n/10.95 ti-nu-ert digitalt-filtreret
+ []
+
+
+Underfull \hbox (badness 3601) in paragraph at lines 67--67
+\T1/cmr/m/n/10.95 på BT-Ms ind-byg-ge-de
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 46--71
+[][] 
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--88
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 90--90
+[]|\T1/cmr/m/n/10.95 3.4.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 90--90
+\T1/cmr/m/n/10.95 3.4.1.2| 
+ []
+
+
+Underfull \hbox (badness 2951) in paragraph at lines 90--90
+[]|\T1/cmr/m/n/10.95 BTM vi-ser en kon-ti-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\T1/cmr/m/n/10.95 nu-ert digitalt-filtreret
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+\T1/cmr/m/n/10.95 bold-tryks-må-ling på
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 74--93
+[][] 
+ []
+
+[18]
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 112--112
+[]|\T1/cmr/m/n/10.95 3.4.2.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 112--112
+\T1/cmr/m/n/10.95 3.4.2.2| 
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 112--112
+[]|\T1/cmr/m/n/10.95 Påfør trans-du-ce-
+ []
+
+
+Underfull \hbox (badness 6741) in paragraph at lines 112--112
+[]|\T1/cmr/m/n/10.95 BTM de-tek-te-rer lavt
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 114--114
+[]|\T1/cmr/m/n/10.95 3.4.2.3-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 114--114
+\T1/cmr/m/n/10.95 3.4.2.4| 
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 114--114
+[]|\T1/cmr/m/n/10.95 Påfør trans-du-ce-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 114--114
+\T1/cmr/m/n/10.95 ren et tryk på
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 114--114
+[]|\T1/cmr/m/n/10.95 BTM de-tek-te-rer nor-
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 114--114
+\T1/cmr/m/n/10.95 spil-ler Nor-malt blod-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 116--116
+[]|\T1/cmr/m/n/10.95 3.4.2.5| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+[]|\T1/cmr/m/n/10.95 Blodtryksmålingen vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/cmr/m/n/10.95 filtreret på BT-Ms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--116
+\T1/cmr/m/n/10.95 ind-byg-ge-de dis-play
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 116--116
+\T1/cmr/m/n/10.95 og rå-da-ta gem-mes i
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 96--120
+[][] 
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--137
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 139--139
+[]|\T1/cmr/m/n/10.95 3.4.3.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 139--139
+\T1/cmr/m/n/10.95 3.4.3.2| 
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 139--139
+[]|\T1/cmr/m/n/10.95 Påfør trans-du-ce-
+ []
+
+
+Underfull \hbox (badness 4872) in paragraph at lines 139--139
+[]|\T1/cmr/m/n/10.95 BTM de-tek-te-rer højt
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 141--141
+[]|\T1/cmr/m/n/10.95 3.4.3.3-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 141--141
+\T1/cmr/m/n/10.95 3.4.3.4| 
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 141--141
+[]|\T1/cmr/m/n/10.95 Påfør trans-du-ce-
+ []
+
+
+Underfull \hbox (badness 4132) in paragraph at lines 141--141
+\T1/cmr/m/n/10.95 ren et tryk på
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 141--141
+[]|\T1/cmr/m/n/10.95 BTM de-tek-te-rer nor-
+ []
+
+
+Underfull \hbox (badness 2293) in paragraph at lines 141--141
+\T1/cmr/m/n/10.95 spil-ler Nor-malt blod-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 143--143
+[]|\T1/cmr/m/n/10.95 3.4.3.5| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+[]|\T1/cmr/m/n/10.95 Blodtryksmålingen vi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+\T1/cmr/m/n/10.95 filtreret på BT-Ms
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 143--143
+\T1/cmr/m/n/10.95 ind-byg-ge-de dis-play
+ []
+
+
+Underfull \hbox (badness 5417) in paragraph at lines 143--143
+\T1/cmr/m/n/10.95 og rå-da-ta gem-mes i
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 123--147
+[][] 
+ []
+
+) [20]
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATVisRaa
+data.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [21
+
+
+]
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATFiltre
+rRaadata.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [22
+
+
+]
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\FIler/ATAfslut
+.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [23
+
+
+]
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATUdlaes
+.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 2.1-
+ []
+
+
+Underfull \hbox (badness 1226) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 18--18
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 18--18
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+[]|\T1/cmr/bx/n/10.95 Vurdering
+ []
+
+
+Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 2.1.1.1-
+ []
+
+
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 2.1.1.2| 
+ []
+
+
+Underfull \hbox (badness 3343) in paragraph at lines 42--42
+[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+ []
+
+
+Underfull \hbox (badness 2762) in paragraph at lines 42--42
+\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+[][] 
+ []
+
+) [24
+
+
+]
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATIkkefu
+nktionelle.tex"
+Overfull \hbox (4.14957pt too wide) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Nr.| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Forventet ob-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 ser-va-tion/
+ []
+
+
+Underfull \hbox (badness 7151) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Faktisk ob-ser-
+ []
+
+
+Overfull \hbox (8.85976pt too wide) in paragraph at lines 4--4
+[]|\T1/cmr/bx/n/10.95 Vurde-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 ring
+ []
+
+
+Overfull \hbox (6.02267pt too wide) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 (OK/-
+ []
+
+
+Overfull \hbox (4.5153pt too wide) in paragraph at lines 4--4
+\T1/cmr/bx/n/10.95 FAIL)| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\T1/cmr/m/n/10.95 Alarmen spil-ler
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+[]|\T1/cmr/m/n/10.95 Alarmen spil-ler
+ []
+
+
+Underfull \hbox (badness 2478) in paragraph at lines 6--6
+\T1/cmr/m/n/10.95 fo-re-ta-ge en suc-
+ []
+
+
+Underfull \hbox (badness 4886) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 fæl-de af: STE-MI og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+[]|\T1/cmr/m/n/10.95 Der for-ta-ges
+ []
+
+
+Underfull \hbox (badness 7326) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 50 må-lin-ger og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 to fag-per-so-ner
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 tjek-ker må-lin-ger
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--7
+\T1/cmr/m/n/10.95 for STE-MI og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+[]|\T1/cmr/m/n/10.95 Man ind-sæt-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\T1/cmr/m/n/10.95 bre-akpo-int og
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--8
+\T1/cmr/m/n/10.95 der tryk-kes på
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\T1/cmr/m/n/10.95 Systemet skal kun-ne
+ []
+
+
+Underfull \hbox (badness 6608) in paragraph at lines 9--9
+[]|\T1/cmr/m/n/10.95 Der tryk-kes på
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--9
+[]|\T1/cmr/m/n/10.95 Systemet kø-rer
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 10--10
+[]|\T1/cmr/m/n/10.95 Systemet er kom-pa-ti-
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 belt på al-le Win-dows
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 plat-for-me ny-e-re end
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 ny-e-re end Win-
+ []
+
+
+Underfull \hbox (badness 1845) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 dows XP til og
+ []
+
+
+Underfull \hbox (badness 3769) in paragraph at lines 10--10
+\T1/cmr/m/n/10.95 ny-e-re end Win-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\T1/cmr/m/n/10.95 Systemet skal kun-ne
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 hånd-te-re 6 pa-tien-ter
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 ad gan-gen med én
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 EKG-afledning pr.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]|\T1/cmr/m/n/10.95 Systemet kan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 hånd-te-re al-le
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 6 pa-tien-ter ad
+ []
+
+
+Underfull \hbox (badness 5726) in paragraph at lines 11--11
+\T1/cmr/m/n/10.95 gan-gen med én
+ []
+
+
+Overfull \hbox (32.36487pt too wide) in paragraph at lines 2--13
+[][] 
+ []
+
+) [25
+
+
+]
 No file Master.bbl.
 \tf@toc=\write5
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 21.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 21.
-
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibrering.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpunkt.aux")
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 26.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 26.
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Master.aux"
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCKalibr
+ering.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCNulpun
+kt.aux")
 
 ! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
 
@@ -3187,31 +4080,60 @@ package documentation for explanation.}{Your command was ignored.\MessageBreak
 Type  I <command> <return>  to replace it with another command,\MessageBreak or
   <return>  to continue without it.}ng.aux.
 
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaadata.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltrerRaadata.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunkkrav.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibrering.aux")
-("C:\Users\herni\OneDrive\Documents\Sundhedsteknologi\3. semester\Semesterproje
-kt\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpunkt.aux"))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 21.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 21.
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCVisRaa
+data.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCFiltre
+rRaadata.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCAfslut
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/UCUdlaes
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/Ikkefunk
+krav.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATKalibr
+ering.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATNulpun
+kt.aux")
+
+! Package inputenc Error: Unicode char \u8:åli not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 \@input{Filer/ATStartMåling.aux}
+                                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+No file Filer/ATStartM\GenericError {(inputenc)                }{Package inpute
+nc Error: Unicode char \u8:åli not set up for use with LaTeX}{See the inputenc 
+package documentation for explanation.}{Your command was ignored.\MessageBreak 
+Type  I <command> <return>  to replace it with another command,\MessageBreak or
+  <return>  to continue without it.}ng.aux.
+
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATVisRaa
+data.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATFiltre
+rRaadata.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\FIler/ATAfslut
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATUdlaes
+.aux")
+("C:\Users\mr_pi\Desktop\ST\ST3PRJ3_Bilag\Kravspec og Accepttest\Filer/ATIkkefu
+nktionelle.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 26.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 26.
 Package rerunfilecheck Info: File `Master.out' has not changed.
 (rerunfilecheck)             Checksum: 86E3A244FFAEF3C92129C11EFE8B8971;56.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 21.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 26.
  ) 
 Here is how much of TeX's memory you used:
- 23882 strings out of 493921
- 428978 string characters out of 3144876
+ 23951 strings out of 493921
+ 428517 string characters out of 3144876
  630582 words of memory out of 3000000
- 26729 multiletter control sequences out of 15000+200000
+ 26746 multiletter control sequences out of 15000+200000
  16593 words of font info for 50 fonts, out of 3000000 for 9000
  843 hyphenation exceptions out of 8191
  44i,13n,78p,406b,763s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -3224,9 +4146,9 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files
 MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Master.pdf (15 pages, 164738 bytes).
+Output written on Master.pdf (25 pages, 185921 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
+ 154 PDF objects out of 1000 (max. 8388607)
+ 28 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
