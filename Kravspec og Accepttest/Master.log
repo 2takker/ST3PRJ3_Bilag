@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.9.7)  12 SEP 2017 11:16
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2017.9.7)  12 SEP 2017 11:28
 entering extended mode
 **Master.tex
 
@@ -3358,72 +3358,77 @@ Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
 ]
 ("C:\Users\Thao Diep Thi Ngo\Desktop\Semesterprojekt\ST3PRJ3_Bilag\Kravspec og 
 Accepttest\FIler/ATAfslut.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 []|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
+Underfull \hbox (badness 10000) in paragraph at lines 14--14
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\T1/cmr/m/n/10.95 2.1-
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/m/n/10.95 6.1-
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 18--18
-[]|\T1/cmr/m/n/10.95 Sig: BTM, ca-li-
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]|\T1/cmr/m/n/10.95 Blodtryksmålingen er
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 18--18
-[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+Underfull \hbox (badness 1776) in paragraph at lines 16--16
+\T1/cmr/m/n/10.95 af-slut-tet. BTM af-spil-
  []
 
 
-Underfull \hbox (badness 2762) in paragraph at lines 18--18
-\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+Underfull \hbox (badness 1248) in paragraph at lines 16--16
+\T1/cmr/m/n/10.95 ler: Mea-su-re-ment has
  []
 
 
-Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--21
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 1--19
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []|\T1/cmr/bx/n/10.95 Forventet ob-ser-va-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--40
+Underfull \hbox (badness 10000) in paragraph at lines 36--36
 []|\T1/cmr/bx/n/10.95 Vurdering
  []
 
 
-Overfull \hbox (6.03183pt too wide) in paragraph at lines 42--42
-[]|\T1/cmr/m/n/10.95 2.1.1.1-
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\T1/cmr/m/n/10.95 6.1.1-
  []
 
 
-Overfull \hbox (2.40129pt too wide) in paragraph at lines 42--42
-\T1/cmr/m/n/10.95 2.1.1.2| 
+Overfull \hbox (2.40129pt too wide) in paragraph at lines 38--38
+\T1/cmr/m/n/10.95 6.1.1.1| 
  []
 
 
-Underfull \hbox (badness 3343) in paragraph at lines 42--42
-[]|\T1/cmr/m/n/10.95 BTM er nul-punkt-s-ju-
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\T1/cmr/m/n/10.95 Blodtryksmålingen er
  []
 
 
-Underfull \hbox (badness 2762) in paragraph at lines 42--42
-\T1/cmr/m/n/10.95 ste-ret. BTM af-spil-ler:
+Underfull \hbox (badness 1776) in paragraph at lines 38--38
+\T1/cmr/m/n/10.95 af-slut-tet. BTM af-spil-
  []
 
 
-Overfull \hbox (5.73851pt too wide) in paragraph at lines 25--45
+Underfull \hbox (badness 1248) in paragraph at lines 38--38
+\T1/cmr/m/n/10.95 ler: Mea-su-re-ment has
+ []
+
+
+Overfull \hbox (5.73851pt too wide) in paragraph at lines 23--41
 [][] 
  []
 
@@ -3797,7 +3802,7 @@ es (x86)/MiKTeX 2.9/fonts/type1/public/cm-super/sfbi1000.pfb><C:/Program Files
 MiKTeX 2.9/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/cm-super/sfti1095.pfb><C:/Program Files (x86)/MiKTeX
  2.9/fonts/type1/urw/bookman/ubkd8a.pfb>
-Output written on Master.pdf (21 pages, 178019 bytes).
+Output written on Master.pdf (21 pages, 177841 bytes).
 PDF statistics:
  136 PDF objects out of 1000 (max. 8388607)
  24 named destinations out of 1000 (max. 500000)
