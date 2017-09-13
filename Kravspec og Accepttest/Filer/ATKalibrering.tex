@@ -1,3 +1,5 @@
+\chapter{Accepttest}
+\section{Use case 1: Kalibrér}
 \begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
 \hline
 \multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 1: Kalibrér} \\\hline
@@ -18,15 +20,14 @@
 1.4 & Montér transduceren ved monteringspunktet afmærket med 10 mmHg på væskesøjlen. & Transduceren er nu monteret på væskesøjlen ud fra afmærkningen 10 mmHg. & &  \\\hline
 
 1.5-1.6 & Tryk på knappen 'Confirm'. & Kalibreringsniveauet for 10 mmHg samt afvigelsen fra sidste kalibrering vises på displayet. &  & \\\hline
-
-1.7-1.8 & Tryk på knappen 'Next'. & Der afspilles følgende instruktion: "'Place the transducer on the cylinder at 50 mmHg and press 'Confirm'"'. Samtidigt vises teksten "'Placér transduceren på væskesøjlen ud fra 50 mmHg og tryk på knappen 'Confirm'"' på BTMs display. &  & \\\hline
-
-1.9 & Montér transduceren ved monteringspunktet afmærket med 50 mmHg på væskesøjlen. & Transduceren er nu monteret på væskesøjlen ud fra afmærkningen 50 mmHg. &  & \\\hline
 \end{tabular}
 
 
 \begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
 \hline
+1.7-1.8 & Tryk på knappen 'Next'. & Der afspilles følgende instruktion: "'Place the transducer on the cylinder at 50 mmHg and press 'Confirm'"'. Samtidigt vises teksten "'Placér transduceren på væskesøjlen ud fra 50 mmHg og tryk på knappen 'Confirm'"' på BTMs display. &  & \\\hline
+
+1.9 & Montér transduceren ved monteringspunktet afmærket med 50 mmHg på væskesøjlen. & Transduceren er nu monteret på væskesøjlen ud fra afmærkningen 50 mmHg. &  & \\\hline
 
 1.10-1.11 & Tryk på knappen 'Confirm'. & Kalibreringsniveauet for 50 mmHg samt afvigelsen fra sidste kalibrering vises på displayet. &  & \\\hline
 
@@ -35,7 +36,10 @@
 1.14 & Montér transduceren ved monteringspunktet afmærket med 100 mmHg på væskesøjlen. & Transduceren er nu monteret på væskesøjlen ud fra afmærkningen 100 mmHg. & &  \\\hline
 
 1.15-1.16 & Tryk på knappen 'Confirm'. & Kalibreringsniveauet for 100 mmHg samt afvigelsen fra sidste kalibrering vises på displayet. &  & \\\hline
+\end{tabular}
 
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
 1.17-1.18 & Tryk på knappen 'Next'. & Der afspilles følgende instruktion: '"Open the valve on the transducer and press 'Confirm'"'. Samtidigt vises teksten "'Åben ventilen på transduceren og tryk på knappen 'Confirm'"'. &  & \\\hline
 
 1.19 & Åbn ventilen på transduceren & Ventilen på transduceren er nu åben. &  & \\\hline
@@ -43,5 +47,24 @@
 1.20-1.21 & Tryk på knappen 'Confirm'. & Kalibreringsniveauet for 50 mmHg samt afvigelsen fra sidste kalibrering vises på displayet. &  & \\\hline
 
 1.22 & Åbn ventilen på transduceren & Ventilen på transduceren er nu åben. &  & \\\hline
+
+\end{tabular}
+
+\section{Use case 1: Extension 2.1.1}
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 1: Kalibrér } \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 1.7.1 \textit{Tryk på knappen 'Retry' ved 10mmHg.}} \\\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item BTM er tilsluttet en transducer. 
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+1.7.1.1-1.7.1.2 & Tryk på knappen 'Retry'. & usteret. BTM afspiller: "'Zero point adjustment is complete"'. & & \\\hline
 
 \end{tabular}
