@@ -1,0 +1,50 @@
+\section{Use case 7: Udlæs rådata}
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 7: Udlæs rådata} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Hovedscenarie} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item At der er en ledig USB-indgang.
+\item At data fra blodtryksmålingne er gemt i en fil. 
+\item Use case 6: "'Afslut måling"' er gennemført. 
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+7.1 & Indsæt USB-nøgle i BTM. & USB-nøgle sidder i BTM. &  & \\\hline
+
+7.2-7.4 & Sig: "'BTM, export"'. & Data er udlæst til USB-nøglen og BTM afspiller efterfølgende: "'The file has been exported"'. &  & \\\hline
+
+7.5 & Sundhedspersonalet fjerner USB-nøglen fra BTM & USB-nøgle er fjernet fra BTM. &  & \\\hline
+
+\end{tabular}
+
+
+\section{Use case 7: Extension 7.2.1}
+
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 7: Udlæs rådata} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 7.2.1 \textit{Tryk på knappen 'Udlæs rådata'.}} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item At der er en ledig USB-indgang.
+\item At data fra blodtryksmålingne er gemt i en fil. 
+\item Use case 6: "Afslut måling" er gennemført. 
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+7.2.1.1-7.2.1.2 & Tryk på knappen 'Udlæs rådata'. & Data er udlæst til USB-nøglen og BTM afspiller efterfølgende: "'The file has been exported"'. & & \\\hline
+
+\end{tabular}
+

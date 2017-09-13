@@ -1,0 +1,45 @@
+\begin{table}[H]
+\begin{tabular}{|p{0.5cm}|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{1cm}|}
+\hline
+\textbf{Nr.} & \textbf{Krav} & \textbf{Test}& \textbf{Forventet observation/ resultat}& \textbf{Faktisk observation/ resultat}& \textbf{Vurde- ring (OK/FAIL)}\\\hline
+ 1 & BTM skal kunne modtage stemmekommandioer fra 2 meters afstand (+/- 0,5 meter) med et lydniveau på 60 dB (+/- 5 dB). & Stå 2 meter fra BTM og udtal stemmekommandoen "BTM, start". Mål lydniveau for stemmekommandoen med en lydtryksmåler. & BTM bekræfter ved at afspille: "Voice command confirmed" og lydniveauet ligger på 60 dB (+/- 5 dB)&  &  \\\hline
+ 2 & BTM skal håndtere et måletryk fra 0 til 260 mmHg. & Tilslut transducer til et 10 mmHg tryk. Kør debugging mode via Visual Studio. Noter tryk. Stop debugging. Tilslut transducer til 250 mmHg tryk. Kør debugging mode på Visual Studio. Noter tryk. & BTM har målt 10 mmHg (+/- 10 mmHg) ved første måling og 250 (+/- 10 mmHg) ved anden måling. & & \\\hline
+ 3 & BTM skal have en udgangsspænding på 5 V DC (+/- 1 V) til transduceren. & Placer måleprober fra et multimeter på udgangsterminalerne til transduceren. & Der måles 5 V DC (+/- 1 V) & &  \\\hline
+ 4 & Personer med normalt syn skal kunne aflæse værdier på BTMs display fra 2 meters afstand (+/- 0,5 meter). & Stå 2 meter fra BTM og aflæs værdier fra BTMs display. & Værdier kan aflæses. & &  \\\hline
+ 5 & Alarm for lavt systolisk blodtryk skal gå i gang under 90 mmHg (+/- 5 mmHg).} & Tilslut transduceren til 80 mmHg tryk og udtal "BTM, start". & Alarmen for lavt systolisk blodtryk går i gang. & & \\\hline
+\end{tabular}
+\end{table}
+\newpage
+\begin{table}[H]
+\begin{tabular}{|p{0.5cm}|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{1cm}|}
+\hline
+\textbf{Nr.} & \textbf{Krav} & \textbf{Test}& \textbf{Forventet observation/ resultat}& \textbf{Faktisk observation/ resultat}& \textbf{Vurde- ring (OK/FAIL)}\\\hline
+ 6 & Frekvenserne for alarmen for lavt systolisk blodtryk skal svinge mellem 1250 Hz (+/- 100 Hz) og 1500 Hz (+/- 100 Hz). & Tilslut transduceren til 80 mmHg tryk og udtal "BTM, start". Alarmen starter. Mål alarmens frekvenser med en lydfrekvensmåler & Frekvenserne svinger mellem 1250 Hz (+/- 100 Hz) og 1500 Hz (+/- 100 Hz). & & \\\hline
+ 7 & Alarm for hhv. lavt- og højt systolisk blodtryk skal vare 6 sekunder (+/- 2 sekunder). & Tilslut transduceren til 80 mmHg tryk og udtal "BTM, start". Alarmen for lavt systolisk blodtryk starter. Mål varighed med et stopur. Tilslut transduceren til 160 mmHg tryk og udtal "BTM, start". Alarmen for høj systolisk blodtryk starter. Mål varighed med et stopur. & Alarm for hhv. lavt- og højt systolisk blodtryk varer 6 sekunder (+/- 2 sekunder). & & \\\hline
+ 8 & Lyden for normalt systolisk blodtryk skal aktiveres når blodtrykket igen er indenfor området 100 mmHg (+/- 5 mmHg) og 140 mmHg (+/- 5 mmHg). & Tilslut transduceren til 80 mmHg tryk og udtal "BTM, start". Alarmen for lavt systolisk blodtryk starter. Tilslut transduceren til 110 mmHg. & Alarmen stopper & & \\\hline
+\end{tabular}
+\end{table}
+\newpage
+\begin{table}[H]
+\begin{tabular}{|p{0.5cm}|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{1cm}|}
+\hline
+\textbf{Nr.} & \textbf{Krav} & \textbf{Test}& \textbf{Forventet observation/ resultat}& \textbf{Faktisk observation/ resultat}& \textbf{Vurde- ring (OK/FAIL)}\\\hline
+ 9 & Lyden for normalt systolisk blodtryk skal være 2 bip med frekvensen 1850 Hz (+/- 100 Hz). & Tilslut transduceren til 80 mmHg tryk og udtal "BTM, start". Alarmen for lavt systolisk blodtryk starter. Tilslut transduceren til 110 mmHg. Tæl antal bip alarmen afgiver og mål alarmens frekvens med en lydfrekvensmåler. & Alarmen bestod af to bip med frekvensen 1850 Hz (+/- 100 Hz). & & \\\hline
+ 10 & Alarm for højt systolisk blodtryk skal gå i gang over 150 mmHg (+/- 5 mmHg). & Tilslut transduceren til 160 mmHg tryk og udtal "BTM, start". & Alarmen for højt systolisk blodtryk går i gang. & & \\\hline
+ 11 & Frekvenserne for alarmen for højt systolisk blodtryk skal svinge mellem 1750 Hz (+/- 100 Hz) og 2000 Hz (+/- 100 Hz). & Tilslut transduceren til 150 mmHg tryk og udtal "BTM, start". Alarmen starter. Mål alarmens frekvenser med en lydfrekvensmåler & Frekvenserne svinger mellem 1750 Hz (+/- 100 Hz) og 2000 Hz (+/- 100 Hz). & & \\\hline
+ 12 & BTM skal have en oppetid/mean time between failure (MTBF) på min. 2 år. & Ikke testbar & & & \\\hline
+ 13 & BTM skal kunne repareres / have en mean time to restore (MTTR) på maks. 1 døgn. & Ikke testbar & & & \\\hline
+\end{tabular}
+\end{table}
+\newpage
+\begin{table}[H]
+\begin{tabular}{|p{0.5cm}|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{1cm}|}
+\hline
+\textbf{Nr.} & \textbf{Krav} & \textbf{Test}& \textbf{Forventet observation/ resultat}& \textbf{Faktisk observation/ resultat}& \textbf{Vurde- ring (OK/FAIL)}\\\hline
+ 14 & Responstiden på en stemmekommando til BTM skal maks. være 2 sekunder. & Tilslut transducer til 100 mmHg og udtal "BTM, start". Mål med et stopur, hvor lang tid det tager for BTM at verificere, at der er foretaget nulpunktjustering.& BTM verificerer, at der er foretaget nulpunktjustering inden for 2 sekunder. & & \\\hline
+ 15 & BTM bør kalibreres hver 2. måned af en autoriseret tekniker. & Hver 2. måned foretages der en visuel test af tidsstemplet for den seneste kalibrering, og det udregnes hvor lang tid der er gået.& Der er ikke gået mere end to måneder siden den sidst foretagede kalibrering. & & \\\hline
+ 16 & Systemet skal programmeres i programmet Visual Studio, herunder C\# .NET. & Koden til systemet kompileres med en C# kompiler. & Koden kompilerer uden fejl. & & \\\hline
+ 17 & Platformen skal have installeret Windows 8 eller nyere. &Der foretages en visuel test under platformens systembeskrivelse for at se om Windows 8 eller en nyere version er installeret. & Windows 8 eller en nyere version er installeret på platformen. & & \\\hline  
+
+\end{tabular}
+\end{table}
