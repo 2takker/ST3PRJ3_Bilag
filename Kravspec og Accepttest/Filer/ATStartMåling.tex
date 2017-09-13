@@ -1,0 +1,147 @@
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 3: Start måling} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Hovedscenarie} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item Transduceren er tilkoblet BTM.
+\item Use case 2: "'Justér nulpunkt"' er gennemført.  
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+3.1-3.4 & Sig: "'BTM, start"'. & BTM verficierer, at nulpunktsjusteringen er foretaget og opretter en datafil. Herefter vises blodtryksmålingen kontinuert digitalt-filtreret på BTMs indbyggede display. Rådata gemmes i datafilen. &  & \\\hline
+
+\end{tabular}
+
+
+
+
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 3: Start måling} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 3.1.1 \textit{Tryk på knappen 'Start'.}} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item Transduceren er tilkoblet BTM.
+\item Use case 2: "'Justér nulpunkt"' er gennemført. 
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+3.1.1.1-3.1.1.2 & Tryk på knappen 'Start'. & BTM verficierer, at nulpunktsjusteringen er foretaget og opretter en datafil. Herefter vises blodtryksmålingen kontinuert digitalt-filtreret på BTMs indbyggede display. Rådata gemmes i datafilen. & & \\\hline
+
+\end{tabular}
+
+\newpage
+
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 3: Start måling} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 3.2.1 \textit{Ingen nulpunktsjustering.}} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item Transduceren er tilkoblet BTM.
+\item Use case 2: "'Justér nulpunkt"' er gennemført. 
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+3.2.1.1-3.2.1.2 & BTM verificerer, at der ikke er foretaget en nulpunktsjustering. & BTM afspiller: "'Zero point calibration not executed"' og meddelsen "'Nulpunktsjustering ikke foretaget"' vises. & & \\\hline
+3.2.1.3-3.2.1.4 & Sig: "'BTM, Understood"'. & Meddelsen "'Nulpunktsjustering ikke foretaget"' lukkes.  & & 
+\\\hline
+3.2.1.5 & Udfør use case 2 & BTM er nulpunktsjusteret. & &
+\\\hline
+3.2.1.6 & Forsæt fra punkt 3.2 & BTM verficierer, at nulpunktsjusteringen er foretaget og opretter en datafil. Herefter vises blodtryksmålingen kontinuert digitalt-filtreret på BTMs indbyggede display. Rådata gemmes i datafilen. & &
+\\\hline
+
+\end{tabular}
+
+\newpage
+
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 3: Start måling} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 3.4.1 \textit{Vis rådata}} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item Transduceren er tilkoblet BTM.
+\item Use case 2: "'Justér nulpunkt"' er gennemført.  
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+3.4.1.1-3.4.1.2 & Udfør use case 4. & BTM viser en kontinuert digitalt-filtreret boldtryksmåling på BTMs indbyggede display og rådata gemmes i datafilen &  & \\\hline
+
+\end{tabular}
+
+\newpage
+
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 3: Start måling} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 3.4.2 \textit{Alarm for lavt blodtryk}} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item Transduceren er tilkoblet BTM.
+\item Use case 2: "'Justér nulpunkt"' er gennemført.  
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+3.4.2.1-3.4.2.2 & Påfør transduceren et tryk på under 90 mmHg. & BTM detekterer lavt blodtryk. BTM afspiller "'Lav blodtryksalarm"'.  & & 
+\\\hline
+3.4.2.3-3.4.2.4 & Påfør transduceren et tryk på mellem 100 mmHg og 140 mmHg. & BTM detekterer normalt blodtryk. BTM afspiller "'Normalt blodtryk"'.  & & 
+\\\hline
+3.4.2.5 & Fortsæt fra punkt 3.4 & Blodtryksmålingen vises kontinuert digitalt-filtreret på BTMs indbyggede display og rådata gemmes i datafilen & & 
+\\\hline
+
+\end{tabular}
+
+\newpage
+
+\begin{tabular}{|p{1cm}|p{3cm}|p{4cm}|p{4cm}|p{2cm}|}
+\hline
+\multicolumn{2}{|p{3cm}|}{\textbf{Use case under test:}} & \multicolumn{3}{c|}{Use case 3: Start måling} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Scenarie:}} & \multicolumn{3}{c|}{Extension 3.4.3 \textit{Alarm for højt blodtryk}} \\\hline
+
+\multicolumn{2}{|p{3cm}|}{\textbf{Prækondition:}}  & \multicolumn{3}{l|}{\parbox{0.6\textwidth}{
+\begin{itemize}[label=$\circ$]
+\item Transduceren er tilkoblet BTM.
+\item Use case 2: "'Justér nulpunkt"' er gennemført.  
+\end{itemize} }}\\\hline
+
+\multicolumn{5}{|c|}{} \\\hline
+
+\textbf{Step} & \textbf{Handling} & \textbf{Forventet observation} & \textbf{Faktisk observation / Resultat} & \textbf{Vurdering (OK/Fail)}\\\hline
+
+3.4.3.1-3.4.3.2 & Påfør transduceren et tryk på over 140 mmHg. & BTM detekterer højt blodtryk. BTM afspiller "'Højt blodtryksalarm"'.  & & 
+\\\hline
+3.4.3.3-3.4.3.4 & Påfør transduceren et tryk på mellem 100 mmHg og 140 mmHg. & BTM detekterer normalt blodtryk. BTM afspiller "'Normalt blodtryk"'.  & & 
+\\\hline
+3.4.3.5 & Fortsæt fra punkt 3.4 & Blodtryksmålingen vises kontinuert digitalt-filtreret på BTMs indbyggede display og rådata gemmes i datafilen & & 
+\\\hline
+
+\end{tabular}
+

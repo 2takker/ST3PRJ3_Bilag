@@ -3,28 +3,27 @@
 \begin{tabular}{|p{10cm}|l|l|}
 \hline
 \textbf{Krav:} & \textbf{FURPS+:} & \textbf{MoSCoW:} \\ \hline
-\textbf{1. BTM skal håndtere engelske stemmekommandoer. } & Usability & Must \\ \hline
-\textbf{2. BTM skal kunne modtage stemmekommandoer fra 2 meters afstand (\begin{align}
-\pm 50 cm.
-\end{align})  med et lydniveau på 60dB +/- 5dB.} & Usability & Must \\ \hline
-\textbf{3. BTM skal håndtere et måletryk fra -50 til +300mmHg. }  & Usability & Skal \\ \hline 
-\textbf{4. BTM skal have en udgangsspænding på 6V DC til transduceren.} & Usability & Skal \\ \hline
-\textbf{5. Personer med normalt syn skal kunne aflæse værdier på BTMs display fra 2 meters afstand (+/- 50 cm.) } & Usability & Skal \\ \hline
-\textbf{6. Responstiden på en stemmekommando til BTM skal maks. være to sekunder.} & Usability & Skal \\ \hline
-\textbf{7. Alarm for lavt systolisk blodtryk skal gå i gang ved X mmHg.} & Usability & Skal \\ \hline
-\textbf{8. Frekvenserne for alarmen for lavt systolisk blodtryk skal svinge mellem x Hz og x Hz} & Usability & Skal \\ \hline
-\textbf{9. Lyden for normalt systolisk blodtryk skal gå i gang ved X mmHg.} & Usability & Skal \\ \hline
-\textbf{10. Frekvenserne for lyden for normalt systolisk blodtryk skal svinge mellem x Hz og x Hz} & Usability & Skal \\ \hline
-\textbf{11. Alarm for højt systolisk blodtryk skal gå i gang ved X mmHg.} & Usability & Skal \\ \hline
-\textbf{12. Frekvenserne for alarmen for højt systolisk blodtryk skal svinge mellem x Hz og x Hz} & Usability & Skal \\ \hline
-\textbf{13. BTM skal have en oppetid/mean time between failure (MTBF) på  2 år } & Reliability & Skal \\ \hline
-\textbf{14. BTM skal kunne repareres/have en mean time to restore (MTTR) på 1 dag. } & Reliability & Skal \\ \hline
-\textbf{15. BTM skal kalibreres hver 2.måned af en autoriseret tekniker. } & Supportability & Skal \\ \hline
-\textbf{16. Systemet skal programmeres i programmet Visual Studio, herunder C\# .NET.} & Supportability & Skal \\ \hline
-\textbf{17. Platformen skal have installeret Windows 8 eller nyere.} & Supportability & Skal \\ \hline
-\textbf{18. BTM ville kunne håndtere dansk stemmekommando.} & Usability & Would \\ \hline
+\textbf{1. BTM skal håndtere engelske stemmekommandoer. } & Usability & Must \\\hline
+\textbf{2. BTM skal kunne modtage stemmekommandoer fra 2 meters afstand (+/- 0,5 meter) med et lydniveau på 60dB (+/- 5dB).} & Usability & Must \\ \hline
+\textbf{3. BTM skal håndtere et måletryk fra -50 til +300mmHg. }  & Usability & Must \\ \hline 
+\textbf{4. BTM skal have en udgangsspænding på 5V DC (+/- 1V) til transduceren.} & Usability & Must \\ \hline
+\textbf{5. Personer med normalt syn skal kunne aflæse værdier på BTMs display fra 2 meters afstand (+/- 0,5 meter). } & Usability & Must \\ \hline
+\textbf{6. BTM ville kunne håndtere dansk stemmekommando.} & Usability & Would \\ \hline
+\textbf{7. Alarm for lavt systolisk blodtryk skal gå i gang ved 90 mmHg (+/- 5 mmHg).} & Usability & Must \\ \hline
+\textbf{8. Frekvenserne for alarmen for lavt systolisk blodtryk skal svinge mellem 1250 Hz (+/- 100 Hz) og 1500 Hz (+/- 100 Hz).} & Usability & Must \\ \hline
+\textbf{9. Alarmerne for hhv. lavt- og højt systolisk blodtryk varer 6 sekunder (+/- 2 sekunder)} & Usability & Must \\ \hline
+\textbf{10. Lyden for normalt systolisk blodtryk skal aktiveres når blodtrykket igen er indefor området 100 mmHg til 140 mmHg (+/- 5 mmHg).} & Usability & Must \\ \hline
+\textbf{11. Lyden for normalt systolisk blodtryk skal være 2 bip med frekvensen 1850 Hz (+/- 100 Hz).} & Usability & Must \\ \hline
+\textbf{12. Alarm for højt systolisk blodtryk skal gå i gang ved 150 mmHg (+/- 5 mmHg).} & Usability & Must \\ \hline
+\textbf{13. Frekvenserne for alarmen for højt systolisk blodtryk skal svinge mellem 1750 Hz (+/- 100 Hz) og 2000 Hz (+/- 100 Hz).} & Usability & Must \\ \hline
+\textbf{14. BTM skal have en oppetid/mean time between failure (MTBF) på  2 år. } & Reliability & Must \\ \hline
+\textbf{15. BTM skal kunne repareres/have en mean time to restore (MTTR) på 1 dag. } & Reliability & Must \\ \hline
+\textbf{16. Responstiden på en stemmekommando til BTM skal maks. være 2 sekunder.} & Performance & Must \\ \hline
+\textbf{17. BTM bør kalibreres hver 2.måned af en autoriseret tekniker. } & Supportability & Should \\ \hline
+\textbf{18. Systemet skal programmeres i programmet Visual Studio, herunder C\# .NET.} & Supportability & Must \\ \hline
+\textbf{19. Platformen skal have installeret Windows 8 eller nyere.} & Supportability & Must \\ \hline
+
 \end{tabular}
 \caption{Ikke-funktionelle krav}
 \label{tb:ikkefunkkrav} 
 \end{table}
-
