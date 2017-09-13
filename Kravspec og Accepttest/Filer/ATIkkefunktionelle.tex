@@ -2,12 +2,12 @@
 \begin{tabular}{|p{0.5cm}|p{4cm}|p{3cm}|p{3cm}|p{3cm}|p{1cm}|}
 \hline
 \textbf{Nr.} & \textbf{Krav} & \textbf{Test}& \textbf{Forventet observation/ resultat}& \textbf{Faktisk observation/ resultat}& \textbf{Vurde- ring (OK/FAIL)}\\\hline
- 1 & Ved alarm spilles Bee Gees 'Staying Alive' & Mål på simuleret patient med enten STEMI eller non-STEMI. & Alarmen spiller Bee Gees 'Staying Alive' & Alarmen spiller Bee Gees 'Staying Alive' & OK\\\hline
- 2 & Efter 10 minutters introduktion til systemet, bør en bruger kunne foretage en måling på en patient & Vi lader 5 brugere, med 10 minutters kendskab til systemet, foretage en måling på en patient & Alle 5 brugere kan foretage en succesfuld måling & Ikke testet &  \\\hline
- 3 & Systemet skal kunne detektere 95\% af alle tilfælde af: STEMI og Non-Stemi & Der fortages 50 målinger og to fagpersoner tjekker målinger for STEMI og Non-Stemi & Succes raten med, at detekter STEMI og Non-Stemi, er på mindst 95\% & Kan ikke testes & \\\hline
- 4 & Systemet måler EKG'et med en frekvens på 500 Hz & Man indsætter breakpoint og der trykkes på startknappen & Der vil blive indlæst 5000 målinger på 10 sekunder & Der vil blive indlæst 5000 målinger på 10 sekunder & OK \\\hline
- 5 & Systemet skal kunne fortage målinger fejlfrit i minimum 30 minutter & Der trykkes på start og der ventes 30 minutter & Systemet kører forsat efter de 30 minutter & Race Conditions & FAIL \\\hline
- 6 & Systemet er kompatibelt på alle Windows platforme nyere end Windows XP og til og med Windows 10 & Vi kører systemet på alle platforme nyere end Windows XP til og med Windows 10 & Systemet fungerer på alle platforme nyere end Windows XP og til og med Windows 10 & Kan ikke testes & \\\hline
- 7 & Systemet skal kunne håndtere 6 patienter ad gangen med én EKG-afledning pr. patient & Vi tilkobler 6 patienter og trykker på start for alle 6 patienter på en EKG-afdeling & Systemet kan håndtere alle 6 patienter ad gangen med én EKG-afdeling pr. patient & Kan ikke testes&  \\\hline
+ 1 & BTM skal kunne håndtere engelske stemmekommandoer. &  &  &  & \\\hline
+ 2 & BTM skal kunne modtage stemmekommandioer fra 2 meters afstand (+/- 0,5 meter) med et lydniveau på 60dB (+/- 5dB). &  &  &  &  \\\hline
+ 3 & BTM skal håndtere et måletryk fra -50 til + 300mmHg. &  & & & \\\hline
+ 4 & BTM skal have en udgangsspænding på 5V DC (+/- 1V) til transducren. &  & & &  \\\hline
+ 5 & Personmer med normalt syn skal kunne aflæse værdier på BTMs display fra 2 meters afstand (+/- 0,5 meter). & & & &  \\\hline
+ 6 & BTM ville kunne håndtere dansk stemmekommando. & & & & \\\hline
+ 7 & Alarm for lavt systolisk blodtryk skal gå i gang under 
 \end{tabular}
 \end{table}
